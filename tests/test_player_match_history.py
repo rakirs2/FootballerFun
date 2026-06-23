@@ -96,6 +96,23 @@ class PlayerMatchHistoryTests(unittest.TestCase):
         self.assertIn([0, 1], ordinals)
         self.assertIn([2, 3], ordinals)
 
+    def test_n_goal_in_m_matches_counts(self) -> None:
+        csv_path = self._write_csv()
+        history = PlayerMatchHistory.from_csv(csv_path)
+        summary = history.n_goal_in_m_matches(2, 2)
+        self.assertEqual(summary.count, 2)
+        self.assertEqual(summary.span, 2)
+        self.assertEqual(summary.threshold, 2)
+        ordinals = [[m.match_ordinal for m in window.matches] for window in summary.windows]
+        self.assertIn([0, 1], ordinals)
+        self.assertIn([1, 2], ordinals)
+
+    def test_n_goal_in_m_matches_none(self) -> None:
+        csv_path = self._write_csv()
+        history = PlayerMatchHistory.from_csv(csv_path)
+        summary = history.n_goal_in_m_matches(10, 2)
+        self.assertEqual(summary.count, 0)
+
 
 if __name__ == "__main__":
     unittest.main()

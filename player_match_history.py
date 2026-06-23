@@ -41,6 +41,18 @@ class StatWindowSummary:
 
 
 @dataclass(slots=True)
+class StatThresholdSummary:
+    stat_name: str
+    span: int
+    threshold: float
+    windows: List[StatWindow]
+
+    @property
+    def count(self) -> int:
+        return len(self.windows)
+
+
+@dataclass(slots=True)
 class PlayerMatchHistory:
     player_name: str
     matches: List[MatchProfile]
@@ -67,17 +79,7 @@ class PlayerMatchHistory:
             raise ValueError("Span cannot exceed total number of matches.")
 
         attr = self._resolve_stat_name(stat_name)
-        values: List[float] = []
-        for match in self.matches:
-            value = match.stat_value(attr)
-            if value is None:
-                values.append(0.0)
-            elif isinstance(value, (int, float)):
-                values.append(float(value))
-            else:
-                raise TypeError(
-                    f"Stat '{stat_name}' must be numeric; got {type(value).__name__}."
-                )
+        values = self._stat_numeric_series(attr, display_name=stat_name)
 
         current_total = sum(values[:span])
         best_total = current_total
@@ -97,9 +99,57 @@ class PlayerMatchHistory:
         ]
         return StatWindowSummary(stat_name=attr, total=best_total, windows=windows)
 
+    def n_goal_in_m_matches(
+        self,
+        goals: float,
+        span: int,
+        stat_name: str = "goals",
+    ) -> StatThresholdSummary:
+        if span <= 0:
+            raise ValueError("Span must be a positive integer.")
+        if span > len(self.matches):
+            raise ValueError("Span cannot exceed total number of matches.")
+        if goals < 0:
+            raise ValueError("Goal threshold cannot be negative.")
+
+        attr = self._resolve_stat_name(stat_name)
+        values = self._stat_numeric_series(attr, display_name=stat_name)
+
+        windows: List[StatWindow] = []
+        total = sum(values[:span])
+        if total >= goals:
+            windows.append(StatWindow(matches=list(self.matches[:span])))
+
+        for idx in range(span, len(values)):
+            total += values[idx] - values[idx - span]
+            if total >= goals:
+                start = idx - span + 1
+                windows.append(StatWindow(matches=list(self.matches[start : start + span])))
+
+        return StatThresholdSummary(
+            stat_name=attr,
+            span=span,
+            threshold=goals,
+            windows=windows,
+        )
+
     def _resolve_stat_name(self, stat_name: str) -> str:
         normalized = stat_name.strip().lower().replace(" ", "_")
         for attr in MatchProfile.__dataclass_fields__.keys():
             if attr.lower() == normalized:
                 return attr
         raise AttributeError(f"Unknown stat '{stat_name}'.")
+
+    def _stat_numeric_series(self, attr: str, display_name: str) -> List[float]:
+        values: List[float] = []
+        for match in self.matches:
+            value = match.stat_value(attr)
+            if value is None:
+                values.append(0.0)
+            elif isinstance(value, (int, float)):
+                values.append(float(value))
+            else:
+                raise TypeError(
+                    f"Stat '{display_name}' must be numeric; got {type(value).__name__}."
+                )
+        return values
