@@ -1,0 +1,1053 @@
+,Number,Date,Season,Competition,Round,Home/Away,Home Team,Home Score,Away Team,Away Score,Goals,Assists,Minutes Played,Match Rating,Shots,Shots on Target,Free Kick Attempts,Successful Dribbles,Key Passes,Big Chances Created,Accurate Throughballs,Aerial Duels Won,xG,xA,MOTM
+0,1052,13/03/2024,23/24,CONCACAF Champions Cup,R16,H,Inter Miami,3,Nashville SC,1,1,1,50,8.5,3,1,1,1,1,1,N/A,0,N/A,N/A,Yes
+1,1051,07/03/2024,23/24,CONCACAF Champions Cup,R16,A,Nashville SC,2,Inter Miami,2,1,0,90,7.9,5,2,1,2,3,0,N/A,1,N/A,N/A,No
+2,1050,02/03/2024,23/24,MLS,,H,Inter Miami,5,Orlando City,0,2,0,90,9.1,5,2,2,3,1,0,N/A,0,N/A,N/A,No
+3,1049,25/02/2024,23/24,MLS,,A,LA Galaxy,1,Inter Miami,1,1,0,90,8.4,8,3,1,1,1,0,N/A,0,N/A,N/A,No
+4,1048,21/02/2024,23/24,MLS,,H,Inter Miami,2,Real Salt Lake,0,0,1,90,7.8,4,2,1,1,5,0,N/A,0,N/A,N/A,No
+5,1047,21/11/2023,23/24,World Cup Qualifier,,A,Brazil,0,Argentina,1,0,0,76,6.8,1,0,0,0,1,0,N/A,0,N/A,N/A,No
+6,1046,16/11/2023,23/24,World Cup Qualifier,,H,Argentina,0,Uruguay,2,0,0,90,8,3,1,2,6,4,1,N/A,0,N/A,N/A,Yes
+7,1045,21/10/2023,23/24,MLS,,A,Charlotte FC,1,Inter Miami,0,0,0,90,6.9,3,1,2,3,0,0,N/A,0,N/A,N/A,No
+8,1044,17/10/2023,23/24,World Cup Qualifier,,A,Peru,0,Argentina,2,2,0,90,9,7,5,1,1,1,1,N/A,1,N/A,N/A,Yes
+9,1043,12/10/2023,23/24,World Cup Qualifier,,H,Argentina,1,Paraguay,0,0,0,37,6.8,3,0,1,2,0,0,N/A,0,N/A,N/A,No
+10,1042,07/10/2023,23/24,MLS,,H,Inter Miami,0,FC Cincinnati,1,0,0,35,7.1,3,0,2,3,1,0,N/A,0,N/A,N/A,No
+11,1041,20/09/2023,23/24,MLS,,H,Inter Miami,4,Toronto,0,0,0,37,6.5,3,1,0,2,0,0,N/A,0,N/A,N/A,No
+12,1040,07/09/2023,23/24,World Cup Qualifier,,H,Argentina,1,Ecuador,0,1,0,89,7.8,3,2,1,4,2,0,N/A,1,N/A,N/A,No
+13,1039,03/09/2023,23/24,MLS,,A,LAFC,1,Inter Miami,3,0,2,90,8.2,2,2,0,2,3,2,N/A,0,N/A,N/A,Yes
+14,1038,30/08/2023,23/24,MLS,,H,Inter Miami,0,Nashville SC,0,0,0,90,8,7,2,2,5,2,0,N/A,0,N/A,N/A,Yes
+15,1037,26/08/2023,23/24,MLS,,A,New York Red Bulls,0,Inter Miami,2,1,0,30,7.2,2,1,1,0,0,0,N/A,1,N/A,N/A,No
+16,1036,23/08/2023,23/24,US Open Cup,SF,A,FC Cincinnati,3,Inter Miami,3,0,2,120,9.1,1,1,1,5,5,2,N/A,0,N/A,N/A,Yes
+17,1035,19/08/2023,23/24,Leagues Cup,Final,A,Nashville SC,1,Inter Miami,1,1,0,90,7.93,3,1,1,2,0,0,N/A,0,N/A,N/A,No
+18,1034,15/08/2023,23/24,Leagues Cup,SF,A,Philadelphia Union,1,Inter Miami,4,1,0,90,7.94,1,1,0,0,0,0,N/A,0,N/A,N/A,No
+19,1033,12/08/2023,23/24,Leagues Cup,QF,H,Inter Miami,4,Charlotte FC,0,1,0,90,8.46,4,2,0,3,1,1,N/A,0,N/A,N/A,No
+20,1032,06/08/2023,23/24,Leagues Cup,R16,A,FC Dallas,4,Inter Miami,4,2,0,90,9.23,5,3,2,4,4,2,N/A,0,N/A,N/A,Yes
+21,1031,02/08/2023,23/24,Leagues Cup,R32,H,Inter Miami,3,Orlando City,1,2,0,90,9.34,5,3,1,2,1,0,N/A,1,N/A,N/A,Yes
+22,1030,25/07/2023,23/24,Leagues Cup,Group,H,Inter Miami,4,Atlanta United,0,2,1,78,9.9,4,3,0,2,3,0,N/A,0,N/A,N/A,Yes
+23,1029,21/07/2023,23/24,Leagues Cup,Group,H,Inter Miami,2,Cruz Azul,1,1,0,36,7.8,3,2,1,0,1,0,N/A,0,N/A,N/A,No
+24,1028,15/06/2023,22/23,International Friendly,,N,Argentina,2,Australia,0,1,0,90,7.5,5,2,1,5,2,0,N/A,1,N/A,N/A,Yes
+25,1027,03/06/2023,22/23,Ligue 1,,H,Paris Saint-Germain,2,Clermont Foot,3,0,0,90,7.38,6,3,2,2,4,1,2,0,0.66,0.48,No
+26,1026,27/05/2023,22/23,Ligue 1,,A,Strasbourg,1,Paris Saint-Germain,1,1,0,90,8.38,3,1,1,1,3,2,2,0,0.24,0.88,Yes
+27,1025,21/05/2023,22/23,Ligue 1,,A,Auxerre,1,Paris Saint-Germain,2,0,1,90,7.71,4,1,0,4,5,0,1,0,0.4,0.46,No
+28,1024,13/05/2023,22/23,Ligue 1,,H,Paris Saint-Germain,5,Ajaccio,0,0,0,90,7.98,3,1,1,4,2,0,0,0,0.25,0.16,No
+29,1023,30/04/2023,22/23,Ligue 1,,H,Paris Saint-Germain,1,Lorient,3,0,0,90,6.76,1,0,0,3,2,0,0,0,0.01,0.2,No
+30,1022,21/04/2023,22/23,Ligue 1,,A,Angers,1,Paris Saint-Germain,2,0,1,90,7.84,2,1,0,2,2,1,2,0,0.16,0.59,No
+31,1021,15/04/2023,22/23,Ligue 1,,H,Paris Saint-Germain,3,Lens,1,1,0,90,8.01,5,1,0,2,3,0,0,0,0.54,0.15,No
+32,1020,08/04/2023,22/23,Ligue 1,,A,Nice,0,Paris Saint-Germain,2,1,1,90,8.56,3,2,0,1,3,0,0,0,0.57,0.16,No
+33,1019,02/04/2023,22/23,Ligue 1,,H,Paris Saint-Germain,0,Lyon,1,0,0,90,7.94,3,1,0,4,5,1,2,1,0.14,0.55,Yes
+34,1018,28/03/2023,22/23,International Friendly,,H,Argentina,7,Curacao,0,3,1,90,10,10,7,2,3,3,1,N/A,0,N/A,N/A,Yes
+35,1017,23/03/2023,22/23,International Friendly,,H,Argentina,2,Panama,0,1,0,90,9.2,14,5,6,9,2,0,N/A,0,N/A,N/A,Yes
+36,1016,19/03/2023,22/23,Ligue 1,,H,Paris Saint-Germain,0,Rennes,2,0,0,90,7.37,4,2,0,3,5,2,2,0,0.23,0.89,No
+37,1015,11/03/2023,22/23,Ligue 1,,A,Brest,1,Paris Saint-Germain,2,0,1,90,8.3,4,1,1,3,6,1,2,0,0.34,0.92,Yes
+38,1014,08/03/2023,22/23,Champs League,R16,A,Bayern Munich,2,Paris Saint-Germain,0,0,0,90,6.93,3,1,0,2,3,0,0,0,N/A,N/A,No
+39,1013,04/03/2023,22/23,Ligue 1,,H,Paris Saint-Germain,4,Nantes,2,1,0,90,9.61,7,4,1,8,2,0,2,0,0.57,0.11,Yes
+40,1012,26/02/2023,22/23,Ligue 1,,A,Marseille,0,Paris Saint-Germain,3,1,2,90,9.54,2,1,0,2,3,3,2,0,1.41,1.29,Yes
+41,1011,19/02/2023,22/23,Ligue 1,,H,Paris Saint-Germain,4,Lille,3,1,0,90,8.47,2,2,1,3,3,1,0,0,0.39,0.37,No
+42,1010,14/02/2023,22/23,Champs League,R16,H,Paris Saint-Germain,0,Bayern Munich,1,0,0,90,6.9,2,0,1,4,1,0,0,0,N/A,N/A,No
+43,1009,08/02/2023,22/23,Coupe de France,R16,A,Marseille,2,Paris Saint-Germain,1,0,0,90,6.8,4,0,1,3,2,1,N/A,0,N/A,N/A,No
+44,1008,04/02/2023,22/23,Ligue 1,,H,Paris Saint-Germain,2,Toulouse,1,1,0,90,9.59,6,1,1,6,7,1,1,0,0.76,0.43,Yes
+45,1007,01/02/2023,22/23,Ligue 1,,A,Montpellier,1,Paris Saint-Germain,3,1,0,90,8.8,9,3,1,3,2,1,1,0,1.37,0.42,Yes
+46,1006,29/01/2023,22/23,Ligue 1,,H,Paris Saint-Germain,1,Reims,1,0,0,90,6.02,4,0,0,1,0,0,0,0,0.52,N/A,No
+47,1005,15/01/2023,22/23,Ligue 1,,A,Rennes,1,Paris Saint-Germain,0,0,0,90,6.57,3,0,0,1,1,1,1,0,0.19,0.25,No
+48,1004,11/01/2023,22/23,Ligue 1,,H,Paris Saint-Germain,2,Angers,0,1,0,90,7.61,2,1,1,1,1,1,0,0,0.56,0.37,No
+49,1003,18/12/2022,22/23,World Cup,Final,N,Argentina,3,France,3,2,0,120,8.89,5,4,0,0,3,1,0,2,N/A,N/A,No
+50,1002,13/12/2022,22/23,World Cup,SF,N,Argentina,3,Croatia,0,1,1,90,8.38,2,2,0,4,2,2,0,0,N/A,N/A,No
+51,1001,09/12/2022,22/23,World Cup,QF,N,Argentina,2,Netherlands,2,1,1,120,8.69,6,2,1,2,3,1,1,0,N/A,N/A,No
+52,1000,03/12/2022,22/23,World Cup,R16,N,Argentina,2,Australia,1,1,0,90,8.15,6,2,0,1,4,2,0,0,N/A,N/A,Yes
+53,999,30/11/2022,22/23,World Cup,Group,N,Argentina,2,Poland,0,0,0,90,8.18,7,4,0,4,5,1,1,1,N/A,N/A,No
+54,998,26/11/2022,22/23,World Cup,Group,N,Argentina,2,Mexico,0,1,1,90,8.04,2,1,1,2,1,0,0,1,N/A,N/A,Yes
+55,997,22/11/2022,22/23,World Cup,Group,N,Argentina,1,Saudi Arabia,2,1,0,90,7.39,4,3,1,2,3,0,0,0,N/A,N/A,No
+56,996,16/11/2022,22/23,International Friendly,,A,United Arab Emirates,0,Argentina,5,1,1,90,8.2,7,2,2,0,2,1,N/A,0,N/A,N/A,No
+57,995,13/11/2022,22/23,Ligue 1,,H,Paris Saint-Germain,5,Auxerre,0,0,0,74,7.62,2,0,0,3,0,0,1,0,0.14,N/A,No
+58,994,02/11/2022,22/23,Champs League,Group,A,Juventus,1,Paris Saint-Germain,2,0,1,90,6.93,2,1,0,0,3,0,0,0,N/A,N/A,No
+59,993,29/10/2022,22/23,Ligue 1,,H,Paris Saint-Germain,4,Troyes,3,1,1,90,8.11,3,2,0,0,2,1,1,0,0.08,0.46,No
+60,992,25/10/2022,22/23,Champs League,Group,H,Paris Saint-Germain,7,Maccabi Haifa,2,2,2,90,10,5,2,1,1,4,2,2,0,N/A,N/A,Yes
+61,991,21/10/2022,22/23,Ligue 1,,A,Ajaccio,0,Paris Saint-Germain,3,1,2,90,9.33,2,2,1,3,4,2,2,0,1.01,1.04,Yes
+62,990,16/10/2022,22/23,Ligue 1,,H,Paris Saint-Germain,1,Marseille,0,0,0,78,7.69,6,3,1,1,3,0,0,0,0.78,0.22,No
+63,989,05/10/2022,22/23,Champs League,Group,A,Benfica,1,Paris Saint-Germain,1,1,0,80,8.38,2,1,1,5,3,0,0,1,N/A,N/A,Yes
+64,988,01/10/2022,22/23,Ligue 1,,H,Paris Saint-Germain,2,Nice,1,1,0,86,8.17,4,2,2,5,1,0,1,0,0.25,0.04,Yes
+65,987,27/09/2022,22/23,International Friendly,,N,Argentina,3,Jamaica,0,2,0,33,9.4,5,4,1,3,2,1,N/A,0,N/A,N/A,Yes
+66,986,23/09/2022,22/23,International Friendly,,N,Argentina,3,Honduras,0,2,0,90,9.11,4,3,0,2,1,0,N/A,0,N/A,N/A,Yes
+67,985,18/09/2022,22/23,Ligue 1,,A,Lyon,0,Paris Saint-Germain,1,1,0,90,9.21,7,5,1,5,2,0,0,0,0.64,0.12,Yes
+68,984,14/09/2022,22/23,Champs League,Group,A,Maccabi Haifa,1,Paris Saint-Germain,3,1,1,90,8.72,7,3,1,2,2,1,1,0,N/A,N/A,Yes
+69,983,10/09/2022,22/23,Ligue 1,,H,Paris Saint-Germain,1,Brest,0,0,1,90,8.76,4,2,0,2,4,2,5,0,0.69,0.83,Yes
+70,982,06/09/2022,22/23,Champs League,Group,H,Paris Saint-Germain,2,Juventus,1,0,0,83,7.18,2,1,0,0,3,1,1,0,N/A,N/A,No
+71,981,03/09/2022,22/23,Ligue 1,,A,Nantes,0,Paris Saint-Germain,3,0,2,90,9.88,6,1,1,10,4,2,1,0,0.57,1.1,Yes
+72,980,31/08/2022,22/23,Ligue 1,,A,Toulouse,0,Paris Saint-Germain,3,0,2,83,9.19,7,5,2,3,4,3,2,0,1.07,1.2,Yes
+73,979,28/08/2022,22/23,Ligue 1,,H,Paris Saint-Germain,1,Monaco,1,0,0,86,7.27,2,0,0,4,1,0,0,0,0.03,0.04,No
+74,978,21/08/2022,22/23,Ligue 1,,A,Lille,1,Paris Saint-Germain,7,1,1,90,9.41,2,2,0,2,4,1,1,0,0.83,0.55,No
+75,977,13/08/2022,22/23,Ligue 1,,H,Paris Saint-Germain,5,Montpellier,2,0,0,90,8.02,5,3,1,4,1,0,1,0,0.27,0.05,No
+76,976,06/08/2022,22/23,Ligue 1,,A,Clermont Foot,0,Paris Saint-Germain,5,2,1,90,10,6,4,1,6,4,2,2,0,1.99,0.92,Yes
+77,975,31/07/2022,22/23,Trophée des Champions,Final,N,Paris Saint-Germain,4,Nantes,0,1,0,90,7.8,4,3,0,6,2,0,N/A,0,N/A,N/A,No
+78,974,05/06/2022,21/22,International Friendly,,N,Argentina,5,Estonia,0,5,0,90,9.83,10,5,0,6,3,1,N/A,0,N/A,N/A,Yes
+79,973,01/06/2022,21/22,Finalissima,Final,N,Argentina,3,Italy,0,0,2,90,9.09,8,4,2,5,4,2,N/A,0,N/A,N/A,Yes
+80,972,21/05/2022,21/22,Ligue 1,,H,Paris Saint-Germain,5,Metz,0,0,1,90,8.66,3,0,0,1,4,1,4,0,0.27,0.53,No
+81,971,14/05/2022,21/22,Ligue 1,,A,Montpellier,0,Paris Saint-Germain,4,2,0,90,10,6,4,0,4,4,1,0,1,1.21,0.38,Yes
+82,970,08/05/2022,21/22,Ligue 1,,H,Paris Saint-Germain,2,Troyes,2,0,0,90,6.8,6,1,0,2,1,0,0,0,0.42,0.01,No
+83,969,29/04/2022,21/22,Ligue 1,,A,Strasbourg,3,Paris Saint-Germain,3,0,0,90,6.81,3,2,1,1,0,0,0,0,0.21,N/A,No
+84,968,23/04/2022,21/22,Ligue 1,,H,Paris Saint-Germain,1,Lens,1,1,0,90,8.03,4,3,1,3,0,0,0,1,0.18,N/A,Yes
+85,967,17/04/2022,21/22,Ligue 1,,H,Paris Saint-Germain,2,Marseille,1,0,0,90,6.8,1,0,1,3,0,0,0,1,0.07,N/A,No
+86,966,09/04/2022,21/22,Ligue 1,,A,Clermont Foot,1,Paris Saint-Germain,6,0,3,90,9.44,2,0,0,2,5,2,1,0,0.18,0.9,No
+87,965,03/04/2022,21/22,Ligue 1,,H,Paris Saint-Germain,5,Lorient,1,1,0,90,8.47,4,1,0,3,1,0,0,0,0.62,0.08,No
+88,964,29/03/2022,21/22,World Cup Qualifier,,A,Ecuador,1,Argentina,1,0,0,90,7.3,2,0,1,5,1,0,N/A,1,N/A,N/A,Yes
+89,963,26/03/2022,21/22,World Cup Qualifier,,H,Argentina,3,Venezuela,0,1,0,90,9.3,7,3,3,8,3,0,N/A,0,N/A,N/A,Yes
+90,962,13/03/2022,21/22,Ligue 1,,H,Paris Saint-Germain,3,Bordeaux,0,0,0,90,7.84,2,1,0,3,2,1,1,0,0.14,0.57,No
+91,961,09/03/2022,21/22,Champs League,R16,A,Real Madrid,3,Paris Saint-Germain,1,0,0,90,7.03,3,0,1,4,1,0,1,0,N/A,N/A,No
+92,960,05/03/2022,21/22,Ligue 1,,A,Nice,1,Paris Saint-Germain,0,0,0,90,6.6,0,0,0,3,1,0,1,0,N/A,0.12,No
+93,959,26/02/2022,21/22,Ligue 1,,H,Paris Saint-Germain,3,St Etienne,1,0,2,90,8.8,4,1,2,3,6,2,1,0,0.67,0.57,No
+94,958,19/02/2022,21/22,Ligue 1,,A,Nantes,3,Paris Saint-Germain,1,0,1,90,7.73,3,1,0,4,3,2,1,0,0.52,0.82,No
+95,957,15/02/2022,21/22,Champs League,R16,H,Paris Saint-Germain,1,Real Madrid,0,0,0,90,7.26,8,2,1,5,4,0,2,0,N/A,N/A,No
+96,956,11/02/2022,21/22,Ligue 1,,H,Paris Saint-Germain,1,Rennes,0,0,1,90,7.71,2,0,0,4,4,0,0,0,0.05,0.21,No
+97,955,06/02/2022,21/22,Ligue 1,,A,Lille,1,Paris Saint-Germain,5,1,1,90,10,5,3,2,2,6,1,2,0,0.69,0.98,Yes
+98,954,31/01/2022,21/22,Coupe de France,R16,H,Paris Saint-Germain,0,Nice,0,0,0,90,7.2,2,1,0,4,0,0,N/A,0,N/A,N/A,No
+99,953,23/01/2022,21/22,Ligue 1,,H,Paris Saint-Germain,4,Reims,0,0,1,27,7.04,1,0,0,1,2,0,0,0,0.04,0.06,No
+100,952,22/12/2021,21/22,Ligue 1,,A,Lorient,1,Paris Saint-Germain,1,0,0,90,8.82,4,2,0,11,1,0,1,1,0.32,0.03,Yes
+101,951,12/12/2021,21/22,Ligue 1,,H,Paris Saint-Germain,2,Monaco,0,0,1,90,7.39,4,0,2,1,2,0,0,0,0.44,0.19,No
+102,950,07/12/2021,21/22,Champs League,Group,H,Paris Saint-Germain,4,Club Brugge,1,2,0,90,9.89,5,3,0,2,4,2,2,0,N/A,N/A,Yes
+103,949,04/12/2021,21/22,Ligue 1,,A,Lens,1,Paris Saint-Germain,1,0,0,90,6.98,5,0,1,1,2,2,0,0,0.36,0.78,No
+104,948,01/12/2021,21/22,Ligue 1,,H,Paris Saint-Germain,0,Nice,0,0,0,90,7.19,6,1,1,1,5,1,2,0,0.3,0.59,No
+105,947,28/11/2021,21/22,Ligue 1,,A,St Etienne,1,Paris Saint-Germain,3,0,3,90,8.67,3,1,0,1,5,2,1,0,0.61,1.14,Yes
+106,946,24/11/2021,21/22,Champs League,Group,A,Manchester City,2,Paris Saint-Germain,1,0,0,90,6.42,1,0,0,1,1,0,0,1,N/A,N/A,No
+107,945,20/11/2021,21/22,Ligue 1,,H,Paris Saint-Germain,3,Nantes,1,1,0,90,8.44,6,4,1,2,3,1,0,0,0.75,0.19,No
+108,944,16/11/2021,21/22,World Cup Qualifier,,H,Argentina,0,Brazil,0,0,0,90,6.7,4,2,0,5,0,0,N/A,0,N/A,N/A,No
+109,943,13/11/2021,21/22,World Cup Qualifier,,A,Uruguay,0,Argentina,1,0,0,14,6.8,1,0,0,1,0,0,0,0,N/A,N/A,No
+110,942,29/10/2021,21/22,Ligue 1,,H,Paris Saint-Germain,2,Lille,1,0,0,45,6.16,2,0,1,0,1,0,0,0,0.13,0.05,No
+111,941,24/10/2021,21/22,Ligue 1,,A,Marseille,0,Paris Saint-Germain,0,0,0,90,6.48,4,2,0,2,0,0,0,0,0.72,N/A,No
+112,940,19/10/2021,21/22,Champs League,Group,H,Paris Saint-Germain,3,RB Leipzig,2,2,0,90,8.93,5,3,0,7,0,0,0,1,N/A,N/A,Yes
+113,939,15/10/2021,21/22,World Cup Qualifier,,H,Argentina,1,Peru,0,0,0,90,7,2,1,1,3,0,0,N/A,0,N/A,N/A,No
+114,938,10/10/2021,21/22,World Cup Qualifier,,H,Argentina,3,Uruguay,0,1,0,90,8.6,6,3,0,4,3,1,N/A,0,N/A,N/A,No
+115,937,07/10/2021,21/22,World Cup Qualifier,,A,Paraguay,0,Argentina,0,0,0,90,7.7,3,0,2,6,4,1,N/A,0,N/A,N/A,No
+116,936,03/10/2021,21/22,Ligue 1,,A,Rennes,2,Paris Saint-Germain,0,0,0,90,7.55,5,0,2,3,3,1,3,0,0.47,0.39,No
+117,935,28/09/2021,21/22,Champs League,Group,H,Paris Saint-Germain,2,Manchester City,0,1,0,90,7.55,1,1,0,1,0,0,0,0,N/A,N/A,No
+118,934,19/09/2021,21/22,Ligue 1,,H,Paris Saint-Germain,2,Lyon,1,0,0,75,7.29,4,2,1,3,2,0,0,1,0.51,0.1,No
+119,933,15/09/2021,21/22,Champs League,Group,A,Club Brugge,1,Paris Saint-Germain,1,0,0,90,7.01,3,1,0,3,3,1,0,0,N/A,N/A,No
+120,932,10/09/2021,21/22,World Cup Qualifier,,H,Argentina,3,Bolivia,0,3,0,90,10,8,3,0,4,4,1,N/A,0,N/A,N/A,Yes
+121,931,02/09/2021,21/22,World Cup Qualifier,,A,Venezuela,1,Argentina,3,0,0,90,7.3,3,2,1,2,2,0,N/A,0,N/A,N/A,No
+122,930,29/08/2021,21/22,Ligue 1,,A,Reims,0,Paris Saint-Germain,2,0,0,24,6.25,0,0,0,0,0,0,0,0,N/A,N/A,No
+123,929,10/07/2021,20/21,Copa America,Final,A,Brazil,0,Argentina,1,0,0,90,6.4,1,0,0,1,2,0,N/A,1,N/A,N/A,No
+124,928,07/07/2021,20/21,Copa America,SF,N,Argentina,1,Colombia,1,0,1,90,8.5,3,0,2,9,5,2,N/A,0,N/A,N/A,Yes
+125,927,03/07/2021,20/21,Copa America,QF,N,Argentina,3,Ecuador,0,1,2,90,9.4,7,1,2,2,5,3,N/A,0,N/A,N/A,Yes
+126,926,28/06/2021,20/21,Copa America,Group,N,Argentina,4,Bolivia,1,2,1,90,9.9,5,4,1,5,1,0,N/A,0,N/A,N/A,Yes
+127,925,21/06/2021,20/21,Copa America,Group,N,Argentina,1,Paraguay,0,0,0,90,7.5,3,2,2,5,1,0,N/A,0,N/A,N/A,No
+128,924,18/06/2021,20/21,Copa America,Group,N,Argentina,1,Uruguay,0,0,1,90,8,2,1,1,9,4,0,N/A,0,N/A,N/A,Yes
+129,923,14/06/2021,20/21,Copa America,Group,N,Argentina,1,Chile,1,1,0,90,8.4,7,3,1,3,4,1,N/A,0,N/A,N/A,Yes
+130,922,08/06/2021,20/21,World Cup Qualifier,,A,Colombia,2,Argentina,2,0,0,90,7.9,4,3,2,3,3,1,N/A,0,N/A,N/A,No
+131,921,03/06/2021,20/21,World Cup Qualifier,,H,Argentina,1,Chile,1,1,0,90,8.5,6,4,2,6,2,0,N/A,1,N/A,N/A,Yes
+132,920,16/05/2021,20/21,La Liga,,H,Barcelona,1,Celta Vigo,2,1,0,90,10,8,2,0,15,2,1,1,0,0.64,0.19,Yes
+133,919,11/05/2021,20/21,La Liga,,A,Levante,3,Barcelona,3,1,0,90,7.75,6,1,1,3,3,2,0,0,0.52,0.82,No
+134,918,08/05/2021,20/21,La Liga,,H,Barcelona,0,Atletico Madrid,0,0,0,90,8.23,3,2,2,5,3,0,0,0,0.22,0.24,No
+135,917,02/05/2021,20/21,La Liga,,A,Valencia,2,Barcelona,3,2,0,90,9.18,5,3,2,7,1,1,0,0,1.89,0.48,Yes
+136,916,29/04/2021,20/21,La Liga,,H,Barcelona,1,Granada,2,1,0,90,7.83,6,2,1,3,2,0,0,0,0.83,0.12,Yes
+137,915,25/04/2021,20/21,La Liga,,A,Villarreal,1,Barcelona,2,0,0,90,6.78,3,1,1,2,0,0,0,0,0.2,N/A,No
+138,914,22/04/2021,20/21,La Liga,,H,Barcelona,5,Getafe,2,2,1,90,10,7,4,0,2,1,1,1,0,0.95,0.49,Yes
+139,913,17/04/2021,20/21,Copa del Rey,Final,N,Barcelona,4,Athletic Bilbao,0,2,0,90,9.1,6,3,1,1,2,1,N/A,0,N/A,N/A,No
+140,912,10/04/2021,20/21,La Liga,,A,Real Madrid,2,Barcelona,1,0,0,90,7.84,7,2,3,7,2,0,0,0,0.62,0.12,Yes
+141,911,05/04/2021,20/21,La Liga,,H,Barcelona,1,Real Valladolid,0,0,0,90,7.29,7,2,3,2,5,1,0,0,0.41,0.49,No
+142,910,21/03/2021,20/21,La Liga,,A,Real Sociedad,1,Barcelona,6,2,1,90,9.54,5,3,1,3,2,1,0,0,1.23,0.38,Yes
+143,909,15/03/2021,20/21,La Liga,,H,Barcelona,4,Huesca,1,2,1,90,10,6,2,1,5,3,1,0,0,0.35,0.5,Yes
+144,908,10/03/2021,20/21,Champs League,R16,A,Paris Saint-Germain,1,Barcelona,1,1,0,90,8.25,7,3,1,4,4,0,0,0,N/A,N/A,No
+145,907,06/03/2021,20/21,La Liga,,A,Osasuna,0,Barcelona,2,0,2,90,8.97,5,2,0,5,6,0,1,0,0.36,0.77,Yes
+146,906,03/03/2021,20/21,Copa del Rey,SF,H,Barcelona,3,Sevilla,0,0,0,120,8.5,7,1,1,13,3,0,N/A,0,N/A,N/A,Yes
+147,905,27/02/2021,20/21,La Liga,,A,Sevilla,0,Barcelona,2,1,1,90,9.49,4,3,1,7,1,1,1,0,1.16,0.34,Yes
+148,904,24/02/2021,20/21,La Liga,,H,Barcelona,3,Elche,0,2,0,90,9.11,3,2,0,4,1,1,0,0,1.22,0.43,Yes
+149,903,21/02/2021,20/21,La Liga,,H,Barcelona,1,Cadiz,1,1,0,90,7.61,8,3,0,3,2,0,0,1,1.69,0.13,Yes
+150,902,16/02/2021,20/21,Champs League,R16,H,Barcelona,1,Paris Saint-Germain,4,1,0,90,7.08,2,1,1,2,3,1,0,0,N/A,N/A,No
+151,901,13/02/2021,20/21,La Liga,,H,Barcelona,5,Alaves,1,2,1,90,10,7,5,1,1,2,1,0,0,0.38,0.47,Yes
+152,900,10/02/2021,20/21,Copa del Rey,SF,A,Sevilla,2,Barcelona,0,0,0,90,7.8,7,4,1,4,1,0,N/A,0,N/A,N/A,No
+153,899,07/02/2021,20/21,La Liga,,A,Real Betis,2,Barcelona,3,1,0,33,8.16,2,1,1,3,2,0,2,0,0.14,0.09,Yes
+154,898,03/02/2021,20/21,Copa del Rey,QF,A,Granada,3,Barcelona,5,0,1,120,10,11,7,2,9,10,0,0,0,N/A,N/A,Yes
+155,897,31/01/2021,20/21,La Liga,,H,Barcelona,2,Athletic Bilbao,1,1,0,90,9.7,4,2,1,11,4,0,0,0,1.11,0.3,Yes
+156,896,27/01/2021,20/21,Copa del Rey,R16,A,Rayo Vallecano,1,Barcelona,2,1,0,90,8.4,4,2,1,9,2,0,N/A,0,N/A,N/A,Yes
+157,895,17/01/2021,20/21,Supercopa de Espana,Final,N,Barcelona,2,Athletic Bilbao,3,0,0,120,6.02,3,0,1,4,0,0,0,0,N/A,N/A,No
+158,894,09/01/2021,20/21,La Liga,,A,Granada,0,Barcelona,4,2,0,64,8.97,2,2,1,0,0,0,0,0,0.28,N/A,No
+159,893,06/01/2021,20/21,La Liga,,A,Athletic Bilbao,2,Barcelona,3,2,0,90,9.15,5,2,0,5,1,0,0,0,0.59,0.02,Yes
+160,892,03/01/2021,20/21,La Liga,,A,Huesca,0,Barcelona,1,0,1,90,8.29,8,2,2,6,1,1,1,0,0.51,0.56,Yes
+161,891,22/12/2020,20/21,La Liga,,A,Real Valladolid,0,Barcelona,3,1,1,90,10,11,7,0,5,3,1,0,0,1.45,0.4,Yes
+162,890,19/12/2020,20/21,La Liga,,H,Barcelona,2,Valencia,2,1,0,90,8.43,10,4,1,6,3,1,0,1,2.02,0.7,No
+163,889,16/12/2020,20/21,La Liga,,H,Barcelona,2,Real Sociedad,1,0,0,90,7.72,3,1,0,4,2,0,0,1,0.19,0.11,No
+164,888,13/12/2020,20/21,La Liga,,H,Barcelona,1,Levante,0,1,0,90,9.17,12,6,3,2,3,2,0,1,1.05,0.73,Yes
+165,887,08/12/2020,20/21,Champs League,Group,H,Barcelona,0,Juventus,3,0,0,90,8.32,11,7,1,5,3,0,0,0,N/A,N/A,No
+166,886,05/12/2020,20/21,La Liga,,A,Cadiz,2,Barcelona,1,0,0,90,8.63,10,5,4,9,2,1,0,1,0.59,0.13,Yes
+167,885,29/11/2020,20/21,La Liga,,H,Barcelona,4,Osasuna,0,1,0,90,9.1,5,2,3,3,4,2,0,0,0.36,0.75,No
+168,884,21/11/2020,20/21,La Liga,,A,Atletico Madrid,1,Barcelona,0,0,0,90,7.38,3,1,1,4,3,1,0,1,0.43,0.53,No
+169,883,17/11/2020,20/21,World Cup Qualifier,,A,Peru,0,Argentina,2,0,0,90,7.9,6,0,1,3,1,1,N/A,0,N/A,N/A,No
+170,882,12/11/2020,20/21,World Cup Qualifier,,H,Argentina,1,Paraguay,1,0,0,90,7,5,1,3,1,2,0,N/A,2,N/A,N/A,No
+171,881,07/11/2020,20/21,La Liga,,H,Barcelona,5,Real Betis,2,2,0,45,8.31,3,3,0,1,2,1,0,0,1.25,0.44,Yes
+172,880,04/11/2020,20/21,Champs League,Group,H,Barcelona,2,Dynamo Kyiv,1,1,0,90,8.53,6,4,1,4,4,0,0,0,N/A,N/A,No
+173,879,31/10/2020,20/21,La Liga,,A,Alaves,1,Barcelona,1,0,0,90,9.11,10,5,3,12,4,0,0,0,0.68,0.2,Yes
+174,878,28/10/2020,20/21,Champs League,Group,A,Juventus,0,Barcelona,2,1,1,90,8.9,4,1,0,7,5,2,0,0,N/A,N/A,Yes
+175,877,24/10/2020,20/21,La Liga,,H,Barcelona,1,Real Madrid,3,0,0,90,6.57,3,2,1,3,1,0,0,0,0.45,0.03,No
+176,876,20/10/2020,20/21,Champs League,Group,H,Barcelona,5,Ferencvaros,1,1,1,90,10,7,4,4,7,4,1,0,0,N/A,N/A,Yes
+177,875,17/10/2020,20/21,La Liga,,A,Getafe,1,Barcelona,0,0,0,90,7.42,3,1,1,4,1,0,0,1,0.17,0.06,Yes
+178,874,13/10/2020,20/21,World Cup Qualifier,,A,Bolivia,1,Argentina,2,0,0,90,7.4,3,0,1,7,5,0,N/A,3,N/A,N/A,No
+179,873,08/10/2020,20/21,World Cup Qualifier,,H,Argentina,1,Ecuador,0,1,0,90,7.5,3,1,0,2,2,0,N/A,0,N/A,N/A,No
+180,872,04/10/2020,20/21,La Liga,,H,Barcelona,1,Sevilla,1,0,0,90,7.05,3,1,0,3,2,1,0,0,0.1,0.17,No
+181,871,01/10/2020,20/21,La Liga,,A,Celta Vigo,0,Barcelona,3,0,0,90,7.22,2,1,1,2,2,0,0,1,0.52,0.2,No
+182,870,27/09/2020,20/21,La Liga,,H,Barcelona,4,Villarreal,0,1,0,90,8.51,7,4,0,2,1,0,0,0,2.1,0.03,No
+183,869,16/08/2020,19/20,Champs League,QF,N,Barcelona,2,Bayern Munich,8,0,0,90,6.8,3,2,0,3,1,0,0,0,N/A,N/A,No
+184,868,08/08/2020,19/20,Champs League,R16,H,Barcelona,3,Napoli,1,1,0,90,9.19,2,1,0,7,0,0,0,1,N/A,N/A,Yes
+185,867,19/07/2020,19/20,La Liga,,A,Alaves,0,Barcelona,5,2,1,90,10,4,2,1,5,4,2,3,0,1.07,0.78,Yes
+186,866,16/07/2020,19/20,La Liga,,H,Barcelona,1,Osasuna,2,1,0,90,9.34,9,2,5,6,4,1,0,0,0.56,0.4,Yes
+187,865,11/07/2020,19/20,La Liga,,A,Real Valladolid,0,Barcelona,1,0,1,90,7.84,3,1,1,5,1,0,1,0,0.17,0.05,No
+188,864,08/07/2020,19/20,La Liga,,H,Barcelona,1,Espanyol,0,0,0,90,7.72,4,1,2,5,0,0,0,0,0.3,N/A,No
+189,863,05/07/2020,19/20,La Liga,,A,Villarreal,1,Barcelona,4,0,2,90,9.11,4,2,2,3,6,2,0,1,0.37,0.86,Yes
+190,862,30/06/2020,19/20,La Liga,,H,Barcelona,2,Atletico Madrid,2,1,0,90,8.91,6,2,2,7,2,0,1,0,0.99,0.18,Yes
+191,861,27/06/2020,19/20,La Liga,,A,Celta Vigo,2,Barcelona,2,0,2,90,9.77,7,0,1,4,5,3,1,0,0.4,1.53,Yes
+192,860,23/06/2020,19/20,La Liga,,H,Barcelona,1,Athletic Bilbao,0,0,1,90,9.42,7,0,2,10,5,1,0,0,0.38,0.63,Yes
+193,859,19/06/2020,19/20,La Liga,,A,Sevilla,0,Barcelona,0,0,0,90,7.73,4,3,3,5,1,0,1,0,0.21,0.11,Yes
+194,858,16/06/2020,19/20,La Liga,,H,Barcelona,2,Leganes,0,1,0,90,8.23,3,2,1,5,0,0,0,1,0.87,N/A,Yes
+195,857,13/06/2020,19/20,La Liga,,A,Mallorca,0,Barcelona,4,1,2,90,10,3,1,0,9,6,5,2,1,0.35,2.11,Yes
+196,856,07/03/2020,19/20,La Liga,,H,Barcelona,1,Real Sociedad,0,1,0,90,8.76,6,2,1,10,3,1,0,0,1.38,0.6,Yes
+197,855,01/03/2020,19/20,La Liga,,A,Real Madrid,2,Barcelona,0,0,0,90,6.4,3,2,0,1,1,1,0,0,0.43,0.3,No
+198,854,25/02/2020,19/20,Champs League,R16,A,Napoli,1,Barcelona,1,0,0,90,7.66,3,1,0,8,2,1,0,0,N/A,N/A,No
+199,853,22/02/2020,19/20,La Liga,,H,Barcelona,5,Eibar,0,4,0,90,10,5,5,1,2,0,0,0,0,1.88,N/A,Yes
+200,852,15/02/2020,19/20,La Liga,,H,Barcelona,2,Getafe,1,0,1,90,8.35,6,2,1,5,3,1,2,0,0.74,0.59,Yes
+201,851,09/02/2020,19/20,La Liga,,A,Real Betis,2,Barcelona,3,0,3,90,10,4,3,0,6,6,2,1,0,0.73,1.13,Yes
+202,850,06/02/2020,19/20,Copa del Rey,QF,A,Athletic Bilbao,1,Barcelona,0,0,0,90,6.5,3,1,1,7,2,0,0,0,N/A,N/A,No
+203,849,02/02/2020,19/20,La Liga,,H,Barcelona,2,Levante,1,0,2,90,10,10,6,0,9,7,1,1,1,1.42,0.7,Yes
+204,848,30/01/2020,19/20,Copa del Rey,R16,H,Barcelona,5,Leganes,0,2,1,90,9.7,3,3,0,5,6,0,0,0,N/A,N/A,Yes
+205,847,25/01/2020,19/20,La Liga,,A,Valencia,2,Barcelona,0,0,0,90,7.76,11,4,4,6,1,0,0,0,0.96,0.06,No
+206,846,19/01/2020,19/20,La Liga,,H,Barcelona,1,Granada,0,1,0,90,8.05,9,2,3,2,1,0,1,1,0.95,0.07,No
+207,845,09/01/2020,19/20,Supercopa de Espana,SF,N,Barcelona,2,Atletico Madrid,3,1,0,90,9.13,5,3,0,9,3,0,0,0,N/A,N/A,Yes
+208,844,04/01/2020,19/20,La Liga,,A,Espanyol,2,Barcelona,2,0,0,90,8.39,5,3,1,6,2,1,1,1,0.33,0.44,No
+209,843,21/12/2019,19/20,La Liga,,H,Barcelona,4,Alaves,1,1,0,90,8.64,4,1,1,8,0,0,0,0,0.36,N/A,No
+210,842,18/12/2019,19/20,La Liga,,H,Barcelona,0,Real Madrid,0,0,0,90,7.92,2,1,1,7,1,1,1,0,0.12,0.33,Yes
+211,841,14/12/2019,19/20,La Liga,,A,Real Sociedad,2,Barcelona,2,0,1,90,7.73,1,0,0,4,3,2,0,1,0.02,0.52,No
+212,840,07/12/2019,19/20,La Liga,,H,Barcelona,5,Mallorca,2,3,0,90,10,7,4,0,7,4,1,1,0,0.77,0.63,Yes
+213,839,01/12/2019,19/20,La Liga,,A,Atletico Madrid,0,Barcelona,1,1,0,90,8.98,3,2,0,9,1,1,0,0,0.15,0.34,Yes
+214,838,27/11/2019,19/20,Champs League,Group,H,Barcelona,3,Borussia Dortmund,1,1,2,90,10,5,2,2,11,4,3,1,1,N/A,N/A,Yes
+215,837,23/11/2019,19/20,La Liga,,A,Leganes,1,Barcelona,2,0,1,90,9.08,1,1,0,6,6,3,2,0,0.09,0.81,Yes
+216,836,18/11/2019,19/20,International Friendly,,N,Argentina,2,Uruguay,2,1,1,90,,,,,,,,,,,,
+217,835,15/11/2019,19/20,International Friendly,,N,Argentina,1,Brazil,0,1,0,90,,,,,,,,,,,,
+218,834,09/11/2019,19/20,La Liga,,H,Barcelona,4,Celta Vigo,1,3,0,90,9.68,5,5,2,2,2,1,0,0,0.98,0.35,Yes
+219,833,05/11/2019,19/20,Champs League,Group,H,Barcelona,0,Slavia Prague,0,0,0,90,7.69,8,3,3,6,0,0,0,1,N/A,N/A,No
+220,832,02/11/2019,19/20,La Liga,,A,Levante,3,Barcelona,1,1,0,90,7.21,5,3,0,2,3,1,0,0,2.07,0.4,No
+221,831,29/10/2019,19/20,La Liga,,H,Barcelona,5,Real Valladolid,1,2,2,90,10,6,4,3,7,4,3,2,1,0.5,1.51,Yes
+222,830,23/10/2019,19/20,Champs League,Group,A,Slavia Prague,1,Barcelona,2,1,0,90,9.7,5,3,0,10,4,1,3,0,N/A,N/A,Yes
+223,829,19/10/2019,19/20,La Liga,,A,Eibar,0,Barcelona,3,1,1,90,8.65,3,1,1,4,2,1,0,1,0.72,0.55,Yes
+224,828,06/10/2019,19/20,La Liga,,H,Barcelona,4,Sevilla,0,1,0,90,10,6,3,3,10,2,1,0,1,0.39,0.32,Yes
+225,827,02/10/2019,19/20,Champs League,Group,H,Barcelona,2,Inter Milan,1,0,1,90,9.44,4,3,2,10,6,2,0,0,N/A,N/A,Yes
+226,826,24/09/2019,19/20,La Liga,,H,Barcelona,2,Villarreal,1,0,1,46,6.95,1,0,0,1,1,0,0,0,0.05,0.12,No
+227,825,21/09/2019,19/20,La Liga,,A,Granada,2,Barcelona,0,0,0,45,6.95,2,1,1,4,2,0,0,0,0.15,0.16,No
+228,824,17/09/2019,19/20,Champs League,Group,A,Borussia Dortmund,0,Barcelona,0,0,0,31,6.47,1,0,0,2,0,0,0,0,N/A,N/A,No
+229,823,06/07/2019,18/19,Copa America,3rd P/O,N,Argentina,2,Chile,1,0,1,37,6.98,1,1,0,2,2,2,2,0,N/A,N/A,No
+230,822,03/07/2019,18/19,Copa America,SF,A,Brazil,2,Argentina,0,0,0,90,7.8,4,1,2,7,4,0,0,0,N/A,N/A,No
+231,821,28/06/2019,18/19,Copa America,QF,N,Argentina,2,Venezuela,0,0,0,90,7.3,3,0,1,1,3,1,1,0,N/A,N/A,No
+232,820,23/06/2019,18/19,Copa America,Group,N,Argentina,2,Qatar,0,0,0,90,7.12,2,1,1,2,2,0,1,0,N/A,N/A,No
+233,819,20/06/2019,18/19,Copa America,Group,N,Argentina,1,Paraguay,1,1,0,90,7.82,3,2,1,7,0,0,0,0,N/A,N/A,Yes
+234,818,15/06/2019,18/19,Copa America,Group,N,Argentina,0,Colombia,2,0,0,90,6.5,4,2,2,3,0,0,0,0,N/A,N/A,No
+235,817,07/06/2019,18/19,International Friendly,,H,Argentina,5,Nicaragua,1,2,0,45,,,,,,,,,,,,
+236,816,25/05/2019,18/19,Copa del Rey,Final,N,Barcelona,1,Valencia,2,1,0,90,8.98,12,3,1,8,2,0,0,0,N/A,N/A,Yes
+237,815,19/05/2019,18/19,La Liga,,A,Eibar,2,Barcelona,2,2,0,90,8.06,5,2,1,1,0,0,0,0,0.97,N/A,Yes
+238,814,12/05/2019,18/19,La Liga,,H,Barcelona,2,Getafe,0,0,0,90,8.15,3,2,0,6,3,1,0,0,0.65,0.16,Yes
+239,813,07/05/2019,18/19,Champs League,SF,A,Liverpool,4,Barcelona,0,0,0,90,7.19,5,2,1,4,3,2,2,0,N/A,N/A,No
+240,812,01/05/2019,18/19,Champs League,SF,H,Barcelona,3,Liverpool,0,2,0,90,10,4,2,1,9,1,1,1,1,N/A,N/A,Yes
+241,811,27/04/2019,18/19,La Liga,,H,Barcelona,1,Levante,0,1,0,45,8.06,4,3,0,2,3,0,0,0,0.32,0.21,No
+242,810,23/04/2019,18/19,La Liga,,A,Alaves,0,Barcelona,2,0,0,29,6.62,2,1,0,3,1,0,0,0,0.2,0.1,No
+243,809,20/04/2019,18/19,La Liga,,H,Barcelona,2,Real Sociedad,1,0,1,90,7.54,3,1,2,5,1,0,1,0,0.2,0.05,No
+244,808,16/04/2019,18/19,Champs League,QF,H,Barcelona,3,Manchester United,0,2,0,90,10,7,3,1,6,1,0,0,0,N/A,N/A,Yes
+245,807,10/04/2019,18/19,Champs League,QF,A,Manchester United,0,Barcelona,1,0,0,90,6.89,1,1,1,2,1,1,0,0,N/A,N/A,No
+246,806,06/04/2019,18/19,La Liga,,H,Barcelona,2,Atletico Madrid,0,1,0,90,9.1,8,5,1,6,3,2,1,0,1.09,0.74,Yes
+247,805,02/04/2019,18/19,La Liga,,A,Villarreal,4,Barcelona,4,1,0,29,7.3,2,1,1,2,1,0,0,0,0.17,0.05,No
+248,804,30/03/2019,18/19,La Liga,,H,Barcelona,2,Espanyol,0,2,0,90,9.85,6,2,2,10,0,0,0,0,0.98,N/A,Yes
+249,803,22/03/2019,18/19,International Friendly,,N,Argentina,1,Venezuela,3,0,0,90,,,,,,,,,,,,
+250,802,17/03/2019,18/19,La Liga,,A,Real Betis,1,Barcelona,4,3,0,90,10,5,4,2,1,4,2,3,0,1.27,1.01,Yes
+251,801,13/03/2019,18/19,Champs League,R16,H,Barcelona,5,Lyon,1,2,2,90,10,7,5,0,3,3,2,1,0,N/A,N/A,Yes
+252,800,09/03/2019,18/19,La Liga,,H,Barcelona,3,Rayo Vallecano,1,1,1,90,9.53,6,3,2,6,3,3,1,0,1.39,1.31,Yes
+253,799,02/03/2019,18/19,La Liga,,A,Real Madrid,0,Barcelona,1,0,0,90,7.26,5,1,2,5,2,0,0,1,1.01,0.09,No
+254,798,27/02/2019,18/19,Copa del Rey,SF,A,Real Madrid,0,Barcelona,3,0,0,90,7.09,0,0,N/A,2,2,N/A,0,0,N/A,N/A,No
+255,797,23/02/2019,18/19,La Liga,,A,Sevilla,2,Barcelona,4,3,1,90,10,8,4,0,3,1,1,2,1,0.78,0.31,Yes
+256,796,19/02/2019,18/19,Champs League,R16,A,Lyon,0,Barcelona,0,0,0,90,8.06,9,1,2,5,6,1,0,0,N/A,N/A,Yes
+257,795,16/02/2019,18/19,La Liga,,H,Barcelona,1,Real Valladolid,0,1,0,90,8.31,12,5,0,4,8,4,2,0,2.35,1.37,No
+258,794,10/02/2019,18/19,La Liga,,A,Athletic Bilbao,0,Barcelona,0,0,0,90,7.04,4,1,1,2,2,1,0,0,0.13,0.42,No
+259,793,06/02/2019,18/19,Copa del Rey,SF,H,Barcelona,1,Real Madrid,1,0,0,26,6.71,1,0,N/A,4,1,N/A,0,0,N/A,N/A,No
+260,792,02/02/2019,18/19,La Liga,,H,Barcelona,2,Valencia,2,2,0,90,8.54,8,5,1,2,3,0,0,1,1.33,0.13,No
+261,791,30/01/2019,18/19,Copa del Rey,QF,H,Barcelona,6,Sevilla,1,1,1,90,9.5,9,4,N/A,7,3,1,N/A,N/A,N/A,N/A,Yes
+262,790,27/01/2019,18/19,La Liga,,A,Girona,0,Barcelona,2,1,0,90,8.7,7,2,2,4,3,2,1,1,1.25,0.74,Yes
+263,789,20/01/2019,18/19,La Liga,,H,Barcelona,3,Leganes,1,1,0,27,7.69,2,2,0,1,0,0,1,0,0.13,N/A,No
+264,788,17/01/2019,18/19,Copa del Rey,R16,H,Barcelona,3,Levante,0,1,1,90,9.7,6,5,N/A,4,7,1,N/A,0,N/A,N/A,Yes
+265,787,13/01/2019,18/19,La Liga,,H,Barcelona,3,Eibar,0,1,0,90,8.31,2,2,0,4,1,0,2,0,0.51,0.13,No
+266,786,06/01/2019,18/19,La Liga,,A,Getafe,1,Barcelona,2,1,0,90,8.34,7,5,2,2,1,0,1,0,1.15,0.12,Yes
+267,785,22/12/2018,18/19,La Liga,,H,Barcelona,2,Celta Vigo,0,1,0,90,7.99,3,2,1,4,1,0,1,0,0.5,0.06,No
+268,784,16/12/2018,18/19,La Liga,,A,Levante,0,Barcelona,5,3,2,90,10,7,4,2,2,7,4,0,1,1.68,1.84,Yes
+269,783,11/12/2018,18/19,Champs League,Group,H,Barcelona,1,Tottenham Hotspur,1,0,0,27,6.52,2,0,1,3,1,0,0,0,N/A,N/A,No
+270,782,08/12/2018,18/19,La Liga,,A,Espanyol,0,Barcelona,4,2,1,90,10,5,4,2,8,5,2,1,0,1.52,1.13,Yes
+271,781,02/12/2018,18/19,La Liga,,H,Barcelona,2,Villarreal,0,0,1,90,8.74,6,4,2,3,4,1,1,0,0.35,0.43,No
+272,780,28/11/2018,18/19,Champs League,Group,A,PSV Eindhoven,1,Barcelona,2,1,1,90,9.01,7,4,1,1,5,2,0,0,N/A,N/A,Yes
+273,779,24/11/2018,18/19,La Liga,,A,Atletico Madrid,1,Barcelona,1,0,1,90,8.42,4,1,3,9,1,1,0,0,0.17,0.26,Yes
+274,778,11/11/2018,18/19,La Liga,,H,Barcelona,3,Real Betis,4,2,0,90,9.17,7,2,1,7,5,1,1,1,2.1,0.69,Yes
+275,777,20/10/2018,18/19,La Liga,,H,Barcelona,4,Sevilla,2,1,1,26,8.25,2,1,0,0,1,1,1,0,0.15,0.39,No
+276,776,07/10/2018,18/19,La Liga,,A,Valencia,1,Barcelona,1,1,0,90,8.38,6,4,1,4,2,0,0,0,0.27,0.07,Yes
+277,775,03/10/2018,18/19,Champs League,Group,A,Tottenham Hotspur,2,Barcelona,4,2,0,90,10,6,4,0,1,3,0,2,0,N/A,N/A,Yes
+278,774,29/09/2018,18/19,La Liga,,H,Barcelona,1,Athletic Bilbao,1,0,1,35,7.84,5,1,1,0,2,2,0,0,0.29,0.98,No
+279,773,26/09/2018,18/19,La Liga,,A,Leganes,2,Barcelona,1,0,1,90,7.21,2,1,0,4,2,0,0,0,0.15,0.07,No
+280,772,23/09/2018,18/19,La Liga,,H,Barcelona,2,Girona,2,1,0,90,9,6,4,4,4,6,0,1,0,0.73,0.26,Yes
+281,771,18/09/2018,18/19,Champs League,Group,H,Barcelona,4,PSV Eindhoven,0,3,0,90,10,6,4,2,1,3,0,3,0,N/A,N/A,Yes
+282,770,15/09/2018,18/19,La Liga,,A,Real Sociedad,1,Barcelona,2,0,0,90,8.01,2,1,0,7,2,0,1,0,0.08,0.2,No
+283,769,02/09/2018,18/19,La Liga,,H,Barcelona,8,Huesca,2,2,2,90,10,7,3,2,2,8,2,3,0,1.1,1.14,Yes
+284,768,25/08/2018,18/19,La Liga,,A,Real Valladolid,0,Barcelona,1,0,0,90,6.94,1,0,1,4,1,1,2,0,0.09,N/A,No
+285,767,18/08/2018,18/19,La Liga,,H,Barcelona,3,Alaves,0,2,0,90,10,8,4,2,7,5,3,3,1,0.91,0.88,Yes
+286,766,12/08/2018,18/19,Supercopa de Espana,Final,N,Barcelona,2,Sevilla,1,0,1,90,8.25,5,2,N/A,2,7,1,3,0,N/A,N/A,No
+287,765,30/06/2018,17/18,World Cup,R16,N,Argentina,3,France,4,0,2,90,7.91,4,1,1,3,3,1,0,0,N/A,N/A,No
+288,764,26/06/2018,17/18,World Cup,Group,N,Argentina,2,Nigeria,1,1,0,90,8.91,2,2,1,7,2,1,1,0,N/A,N/A,Yes
+289,763,21/06/2018,17/18,World Cup,Group,N,Argentina,0,Croatia,3,0,0,90,6.98,1,0,0,5,2,0,0,0,N/A,N/A,No
+290,762,16/06/2018,17/18,World Cup,Group,N,Argentina,1,Iceland,1,0,0,90,7.69,11,3,3,8,3,0,0,0,N/A,N/A,No
+291,761,30/05/2018,17/18,International Friendly,,H,Argentina,4,Haiti,0,3,1,90,,,,,,,,,,,,
+292,760,20/05/2018,17/18,La Liga,,H,Barcelona,1,Real Sociedad,0,0,0,24,6.94,1,1,0,2,1,1,1,1,0.06,0.33,No
+293,759,09/05/2018,17/18,La Liga,,H,Barcelona,5,Villarreal,1,1,0,90,9.39,4,1,0,8,1,0,0,0,0.85,0.02,No
+294,758,06/05/2018,17/18,La Liga,,H,Barcelona,2,Real Madrid,2,1,0,90,8.27,5,3,1,3,3,0,1,0,0.67,0.18,Yes
+295,757,29/04/2018,17/18,La Liga,,A,Deportivo La Coruna,2,Barcelona,4,3,0,90,10,9,5,1,8,4,1,0,2,2.37,0.23,Yes
+296,756,21/04/2018,17/18,Copa del Rey,Final,N,Barcelona,5,Sevilla,0,1,2,90,10,4,2,N/A,3,4,3,2,0,N/A,N/A,Yes
+297,755,17/04/2018,17/18,La Liga,,A,Celta Vigo,2,Barcelona,2,0,0,30,6.29,1,0,0,1,0,0,0,0,0.05,N/A,No
+298,754,14/04/2018,17/18,La Liga,,H,Barcelona,2,Valencia,1,0,0,90,8.14,6,2,0,6,2,1,0,0,0.5,0.71,No
+299,753,10/04/2018,17/18,Champs League,QF,A,Roma,3,Barcelona,0,0,0,90,6.68,5,2,2,3,2,1,0,1,N/A,N/A,No
+300,752,07/04/2018,17/18,La Liga,,H,Barcelona,3,Leganes,1,3,0,90,10,6,4,2,6,1,1,1,0,1.29,0.61,Yes
+301,751,04/04/2018,17/18,Champs League,QF,H,Barcelona,4,Roma,1,0,0,90,8.52,7,3,1,7,3,0,0,0,N/A,N/A,Yes
+302,750,31/03/2018,17/18,La Liga,,A,Sevilla,2,Barcelona,2,1,0,33,7.89,4,2,0,3,0,0,0,0,0.16,N/A,No
+303,749,18/03/2018,17/18,La Liga,,H,Barcelona,2,Athletic Bilbao,0,1,0,90,9.06,9,5,2,5,1,0,0,0,0.61,0.08,Yes
+304,748,14/03/2018,17/18,Champs League,R16,H,Barcelona,3,Chelsea,0,2,1,90,10,3,3,1,6,1,0,0,0,N/A,N/A,Yes
+305,747,04/03/2018,17/18,La Liga,,H,Barcelona,1,Atletico Madrid,0,1,0,90,8.72,5,2,3,5,5,0,0,2,0.27,0.28,Yes
+306,746,01/03/2018,17/18,La Liga,,A,Las Palmas,1,Barcelona,1,1,0,90,8.59,4,2,3,5,2,1,0,0,0.43,0.48,Yes
+307,745,24/02/2018,17/18,La Liga,,H,Barcelona,6,Girona,1,2,1,90,10,7,6,3,4,3,2,3,0,0.86,0.5,No
+308,744,20/02/2018,17/18,Champs League,R16,A,Chelsea,1,Barcelona,1,1,0,90,7.53,1,1,0,2,1,0,0,1,N/A,N/A,No
+309,743,17/02/2018,17/18,La Liga,,A,Eibar,0,Barcelona,2,0,1,90,7.97,4,2,0,3,3,1,2,1,1,0.81,No
+310,742,11/02/2018,17/18,La Liga,,H,Barcelona,0,Getafe,0,0,0,90,7.38,4,2,2,4,2,0,0,0,0.13,0.14,No
+311,741,08/02/2018,17/18,Copa del Rey,SF,A,Valencia,0,Barcelona,2,0,0,90,7.76,6,2,N/A,4,1,0,0,0,N/A,N/A,No
+312,740,04/02/2018,17/18,La Liga,,A,Espanyol,1,Barcelona,1,0,1,31,6.83,0,0,0,1,2,0,0,0,N/A,0.22,No
+313,739,01/02/2018,17/18,Copa del Rey,SF,H,Barcelona,1,Valencia,0,0,1,90,8.86,9,2,N/A,8,3,1,0,0,N/A,N/A,Yes
+314,738,28/01/2018,17/18,La Liga,,H,Barcelona,2,Alaves,1,1,0,90,9.18,6,6,4,5,4,1,1,0,0.44,0.49,Yes
+315,737,25/01/2018,17/18,Copa del Rey,QF,H,Barcelona,2,Espanyol,0,1,0,90,8.6,6,2,N/A,7,0,0,N/A,1,N/A,N/A,Yes
+316,736,21/01/2018,17/18,La Liga,,A,Real Betis,0,Barcelona,5,2,1,90,10,4,2,0,12,4,1,0,0,0.96,0.83,Yes
+317,735,17/01/2018,17/18,Copa del Rey,QF,A,Espanyol,1,Barcelona,0,0,0,90,7.7,9,3,N/A,4,2,0,N/A,0,N/A,N/A,No
+318,734,14/01/2018,17/18,La Liga,,A,Real Sociedad,2,Barcelona,4,1,1,90,9.27,5,2,3,4,1,0,1,0,0.15,0.03,Yes
+319,733,11/01/2018,17/18,Copa del Rey,R16,H,Barcelona,5,Celta Vigo,0,2,1,59,9.9,4,1,0,1,4,1,N/A,1,N/A,N/A,Yes
+320,732,07/01/2018,17/18,La Liga,,H,Barcelona,3,Levante,0,1,1,90,9.76,5,2,3,5,3,2,0,0,0.43,0.99,Yes
+321,731,23/12/2017,17/18,La Liga,,A,Real Madrid,0,Barcelona,3,1,1,90,10,4,3,1,6,9,5,1,0,0.94,1.9,Yes
+322,730,17/12/2017,17/18,La Liga,,H,Barcelona,4,Deportivo La Coruna,0,0,1,90,8.5,11,4,1,3,2,1,1,0,2.54,0.6,No
+323,729,10/12/2017,17/18,La Liga,,A,Villarreal,0,Barcelona,2,1,0,90,9.07,6,2,1,7,3,2,0,0,0.8,0.62,Yes
+324,728,05/12/2017,17/18,Champs League,Group,H,Barcelona,2,Sporting CP,0,0,0,30,6.75,3,2,0,1,1,0,1,0,N/A,N/A,No
+325,727,02/12/2017,17/18,La Liga,,H,Barcelona,2,Celta Vigo,2,1,0,90,8.67,11,3,1,5,2,2,1,0,1.67,0.65,No
+326,726,26/11/2017,17/18,La Liga,,A,Valencia,1,Barcelona,1,0,1,90,8.16,4,2,1,4,3,1,0,1,0.24,0.42,Yes
+327,725,22/11/2017,17/18,Champs League,Group,A,Juventus,0,Barcelona,0,0,0,34,6.3,1,0,1,1,0,0,0,0,N/A,N/A,No
+328,724,18/11/2017,17/18,La Liga,,A,Leganes,0,Barcelona,3,0,0,90,7.29,3,1,0,2,1,1,1,0,0.21,0.09,No
+329,723,11/11/2017,17/18,International Friendly,,A,Russia,0,Argentina,1,0,0,90,,,,,,,,,,,,
+330,722,04/11/2017,17/18,La Liga,,H,Barcelona,2,Sevilla,1,0,0,90,7.95,5,2,1,8,2,0,0,0,0.36,0.23,No
+331,721,31/10/2017,17/18,Champs League,Group,A,Olympiacos,0,Barcelona,0,0,0,90,7.93,7,5,2,5,4,1,1,0,N/A,N/A,Yes
+332,720,28/10/2017,17/18,La Liga,,A,Athletic Bilbao,0,Barcelona,2,1,0,90,9.09,4,2,1,5,5,1,1,0,0.83,0.4,Yes
+333,719,21/10/2017,17/18,La Liga,,H,Barcelona,2,Malaga,0,0,1,90,8.26,3,1,1,7,3,0,0,0,0.29,0.26,Yes
+334,718,18/10/2017,17/18,Champs League,Group,H,Barcelona,3,Olympiacos,1,1,1,90,9.46,7,3,2,3,5,1,1,0,N/A,N/A,Yes
+335,717,14/10/2017,17/18,La Liga,,A,Atletico Madrid,1,Barcelona,1,0,0,90,8.26,6,2,2,6,2,0,0,0,0.44,0.08,Yes
+336,716,11/10/2017,17/18,World Cup Qualifier,,A,Ecuador,1,Argentina,3,3,0,90,9.9,5,4,1,0,2,1,N/A,0,N/A,N/A,Yes
+337,715,05/10/2017,17/18,World Cup Qualifier,,H,Argentina,0,Peru,0,0,0,90,7.6,8,0,1,7,6,3,N/A,0,N/A,N/A,No
+338,714,01/10/2017,17/18,La Liga,,H,Barcelona,3,Las Palmas,0,2,1,90,10,10,6,2,11,2,2,1,0,2.84,0.92,Yes
+339,713,27/09/2017,17/18,Champs League,Group,A,Sporting CP,0,Barcelona,1,0,0,90,7.47,5,2,1,4,0,0,0,0,N/A,N/A,Yes
+340,712,23/09/2017,17/18,La Liga,,A,Girona,0,Barcelona,3,0,0,90,7.67,2,1,2,2,2,1,1,1,0.16,0.49,No
+341,711,19/09/2017,17/18,La Liga,,H,Barcelona,6,Eibar,1,4,0,90,10,8,7,1,4,0,0,0,0,1.94,N/A,Yes
+342,710,16/09/2017,17/18,La Liga,,A,Getafe,1,Barcelona,2,0,1,90,7.85,3,1,1,6,1,0,0,0,0.1,0.07,Yes
+343,709,12/09/2017,17/18,Champs League,Group,H,Barcelona,3,Juventus,0,2,0,90,9.7,5,3,2,5,0,0,0,0,N/A,N/A,Yes
+344,708,09/09/2017,17/18,La Liga,,H,Barcelona,5,Espanyol,0,3,0,90,10,8,3,1,7,4,2,0,0,2.05,1.19,Yes
+345,707,06/09/2017,17/18,World Cup Qualifier,,H,Argentina,1,Venezuela,1,0,0,90,8.7,5,1,1,5,4,1,N/A,0,N/A,N/A,Yes
+346,706,01/09/2017,17/18,World Cup Qualifier,,A,Uruguay,0,Argentina,0,0,0,90,7.8,4,1,1,3,3,0,N/A,0,N/A,N/A,Yes
+347,705,26/08/2017,17/18,La Liga,,A,Alaves,0,Barcelona,2,2,0,90,9.82,10,6,1,7,3,0,0,0,1.73,0.16,Yes
+348,704,20/08/2017,17/18,La Liga,,H,Barcelona,2,Real Betis,0,0,0,90,8.36,10,1,3,5,1,0,1,0,0.57,0.11,Yes
+349,703,16/08/2017,17/18,Supercopa de Espana,Final,A,Real Madrid,2,Barcelona,0,0,0,90,6.27,3,1,0,0,1,1,0,0,N/A,N/A,No
+350,702,13/08/2017,17/18,Supercopa de Espana,Final,H,Barcelona,1,Real Madrid,3,1,0,90,7.6,7,2,2,4,2,0,0,1,N/A,N/A,No
+351,701,09/06/2017,16/17,International Friendly,,N,Argentina,1,Brazil,0,0,0,90,6.65,0,0,0,1,0,0,0,0,N/A,N/A,No
+352,700,27/05/2017,16/17,Copa del Rey,Final,N,Barcelona,3,Alaves,1,1,1,90,9.94,4,2,1,9,4,1,1,0,N/A,N/A,Yes
+353,699,21/05/2017,16/17,La Liga,,H,Barcelona,4,Eibar,2,2,0,90,8.87,7,4,0,6,3,1,1,1,2.3,0.57,Yes
+354,698,14/05/2017,16/17,La Liga,,A,Las Palmas,1,Barcelona,4,0,0,90,7.01,6,1,1,1,0,0,0,0,0.47,N/A,No
+355,697,06/05/2017,16/17,La Liga,,H,Barcelona,4,Villarreal,1,2,0,90,9.41,6,4,1,2,3,2,0,0,1.16,0.89,Yes
+356,696,29/04/2017,16/17,La Liga,,A,Espanyol,0,Barcelona,3,0,1,90,8.85,3,3,1,7,5,0,0,0,0.24,0.3,No
+357,695,26/04/2017,16/17,La Liga,,H,Barcelona,7,Osasuna,1,2,0,63,9.47,4,2,0,3,1,0,0,0,0.59,0.1,No
+358,694,23/04/2017,16/17,La Liga,,A,Real Madrid,2,Barcelona,3,2,0,90,9.57,6,4,1,7,0,0,0,1,0.73,N/A,Yes
+359,693,19/04/2017,16/17,Champs League,QF,H,Barcelona,0,Juventus,0,0,0,90,6.98,7,1,1,1,3,0,1,1,N/A,N/A,No
+360,692,15/04/2017,16/17,La Liga,,H,Barcelona,3,Real Sociedad,2,2,1,90,9.23,6,3,1,3,3,1,1,0,1.95,0.59,Yes
+361,691,11/04/2017,16/17,Champs League,QF,A,Juventus,3,Barcelona,0,0,0,90,7.85,4,1,2,5,3,2,2,0,N/A,N/A,No
+362,690,08/04/2017,16/17,La Liga,,A,Malaga,2,Barcelona,0,0,0,90,7.7,6,0,5,9,0,0,1,0,0.49,N/A,Yes
+363,689,05/04/2017,16/17,La Liga,,H,Barcelona,3,Sevilla,0,2,0,90,9.32,7,3,0,5,2,1,0,0,0.69,0.06,Yes
+364,688,23/03/2017,16/17,World Cup Qualifier,,H,Argentina,1,Chile,0,1,0,90,7.5,2,1,0,1,4,0,N/A,0,N/A,N/A,Yes
+365,687,19/03/2017,16/17,La Liga,,H,Barcelona,4,Valencia,2,2,0,90,10,8,4,1,10,5,1,2,1,1.36,0.7,Yes
+366,686,12/03/2017,16/17,La Liga,,A,Deportivo La Coruna,2,Barcelona,1,0,0,90,6.71,5,1,1,1,2,1,0,0,0.27,0.28,No
+367,685,08/03/2017,16/17,Champs League,R16,H,Barcelona,6,Paris Saint-Germain,1,1,0,90,8.25,4,1,2,1,3,0,0,0,N/A,N/A,No
+368,684,04/03/2017,16/17,La Liga,,H,Barcelona,5,Celta Vigo,0,2,2,90,10,6,3,1,5,4,2,2,0,0.39,1.44,Yes
+369,683,01/03/2017,16/17,La Liga,,H,Barcelona,6,Sporting Gijon,1,1,1,61,9.08,5,1,1,1,5,1,1,0,0.59,0.79,No
+370,682,26/02/2017,16/17,La Liga,,A,Atletico Madrid,1,Barcelona,2,1,0,90,7.33,6,3,1,1,1,1,0,0,0.93,0.28,No
+371,681,19/02/2017,16/17,La Liga,,H,Barcelona,2,Leganes,1,2,0,90,8.67,6,3,3,3,1,0,2,1,2.16,0.09,Yes
+372,680,14/02/2017,16/17,Champs League,R16,A,Paris Saint-Germain,4,Barcelona,0,0,0,90,5.9,1,0,1,2,0,0,0,0,N/A,N/A,No
+373,679,11/02/2017,16/17,La Liga,,A,Alaves,0,Barcelona,6,1,0,90,9.09,7,2,1,4,0,0,0,0,0.57,N/A,No
+374,678,07/02/2017,16/17,Copa del Rey,SF,H,Barcelona,1,Atletico Madrid,1,0,0,90,7.2,3,2,1,4,0,0,N/A,0,N/A,N/A,No
+375,677,04/02/2017,16/17,La Liga,,H,Barcelona,3,Athletic Bilbao,0,1,0,64,8.13,3,1,1,3,1,0,0,0,0.21,0.12,No
+376,676,01/02/2017,16/17,Copa del Rey,SF,A,Atletico Madrid,1,Barcelona,2,1,0,90,8.6,4,2,2,7,2,0,N/A,0,N/A,N/A,Yes
+377,675,29/01/2017,16/17,La Liga,,A,Real Betis,1,Barcelona,1,0,1,90,7.54,2,0,1,3,3,2,2,0,0.11,0.82,No
+378,674,26/01/2017,16/17,Copa del Rey,QF,H,Barcelona,5,Real Sociedad,2,1,2,90,8.8,1,1,0,4,3,2,N/A,0,N/A,N/A,Yes
+379,673,22/01/2017,16/17,La Liga,,A,Eibar,0,Barcelona,4,1,0,90,9.2,4,2,2,4,3,2,4,0,0.69,0.71,Yes
+380,672,19/01/2017,16/17,Copa del Rey,QF,A,Real Sociedad,0,Barcelona,1,0,0,90,7.1,1,0,1,2,2,0,N/A,1,N/A,N/A,No
+381,671,14/01/2017,16/17,La Liga,,H,Barcelona,5,Las Palmas,0,1,0,90,8.93,6,3,2,1,6,1,0,0,1.43,0.86,No
+382,670,11/01/2017,16/17,Copa del Rey,R16,H,Barcelona,3,Athletic Bilbao,1,1,0,90,7.6,5,1,3,4,0,0,N/A,0,N/A,N/A,No
+383,669,08/01/2017,16/17,La Liga,,A,Villarreal,1,Barcelona,1,1,0,90,8.81,6,2,1,3,7,0,0,0,0.33,0.28,Yes
+384,668,05/01/2017,16/17,Copa del Rey,R16,A,Athletic Bilbao,2,Barcelona,1,1,0,90,7.8,4,1,1,5,3,1,N/A,0,N/A,N/A,No
+385,667,18/12/2016,16/17,La Liga,,H,Barcelona,4,Espanyol,1,1,0,90,8.68,7,2,1,6,2,0,0,1,1.62,0.21,No
+386,666,10/12/2016,16/17,La Liga,,A,Osasuna,0,Barcelona,3,2,0,90,10,7,5,0,5,4,1,1,0,1.64,0.46,Yes
+387,665,06/12/2016,16/17,Champs League,Group,H,Barcelona,4,Borussia Monchengladbach,0,1,0,90,8.45,4,3,0,3,2,0,0,0,N/A,N/A,No
+388,664,03/12/2016,16/17,La Liga,,H,Barcelona,1,Real Madrid,1,0,0,90,6.94,2,1,1,3,2,0,0,0,0.44,0.1,No
+389,663,27/11/2016,16/17,La Liga,,A,Real Sociedad,1,Barcelona,1,1,0,90,8.42,2,1,0,7,0,0,0,0,0.14,N/A,Yes
+390,662,23/11/2016,16/17,Champs League,Group,A,Celtic,0,Barcelona,2,2,0,90,9.16,6,2,0,5,2,2,0,0,N/A,N/A,Yes
+391,661,15/11/2016,16/17,World Cup Qualifier,,H,Argentina,3,Colombia,0,1,2,90,10,2,1,2,5,5,2,0,0,N/A,N/A,Yes
+392,660,10/11/2016,16/17,World Cup Qualifier,,A,Brazil,3,Argentina,0,0,0,90,7.06,3,0,3,5,3,0,0,1,N/A,N/A,No
+393,659,06/11/2016,16/17,La Liga,,A,Sevilla,1,Barcelona,2,1,1,90,9.13,6,3,0,4,2,2,1,1,0.4,0.71,Yes
+394,658,01/11/2016,16/17,Champs League,Group,A,Manchester City,3,Barcelona,1,1,0,90,7.56,2,1,1,3,1,1,0,0,N/A,N/A,No
+395,657,29/10/2016,16/17,La Liga,,H,Barcelona,1,Granada,0,0,0,90,6.23,4,0,2,0,1,0,1,0,0.38,0.09,No
+396,656,22/10/2016,16/17,La Liga,,A,Valencia,2,Barcelona,3,2,0,90,8.35,4,3,1,3,2,1,0,0,0.96,0.15,Yes
+397,655,19/10/2016,16/17,Champs League,Group,H,Barcelona,4,Manchester City,0,3,1,90,10,4,3,1,5,3,1,0,0,N/A,N/A,Yes
+398,654,15/10/2016,16/17,La Liga,,H,Barcelona,4,Deportivo La Coruna,0,1,0,35,7.93,4,2,1,3,1,0,0,0,0.36,0.12,No
+399,653,21/09/2016,16/17,La Liga,,H,Barcelona,1,Atletico Madrid,1,0,0,59,6.84,5,2,0,1,1,0,0,0,0.31,0.05,No
+400,652,17/09/2016,16/17,La Liga,,A,Leganes,1,Barcelona,5,2,1,90,9.39,6,4,1,3,1,1,0,0,1.6,0.62,No
+401,651,13/09/2016,16/17,Champs League,Group,H,Barcelona,7,Celtic,0,3,1,90,10,6,4,0,3,2,1,1,0,N/A,N/A,No
+402,650,10/09/2016,16/17,La Liga,,H,Barcelona,1,Alaves,2,0,0,30,6.02,3,0,2,1,0,0,0,0,0.26,N/A,No
+403,649,01/09/2016,16/17,World Cup Qualifier,,H,Argentina,1,Uruguay,0,1,0,90,7.95,3,1,1,4,0,0,0,1,N/A,N/A,Yes
+404,648,28/08/2016,16/17,La Liga,,A,Athletic Bilbao,0,Barcelona,1,0,0,90,7.19,2,0,0,2,2,2,0,0,0.19,1.11,No
+405,647,20/08/2016,16/17,La Liga,,H,Barcelona,6,Real Betis,2,2,1,90,10,12,5,2,6,6,2,1,0,0.98,1.48,Yes
+406,646,17/08/2016,16/17,Supercopa de Espana,Final,H,Barcelona,3,Sevilla,0,1,1,90,9.1,6,1,N/A,3,2,1,0,1,N/A,N/A,Yes
+407,645,14/08/2016,16/17,Supercopa de Espana,Final,A,Sevilla,0,Barcelona,2,0,1,90,8.26,4,2,N/A,4,3,1,1,1,N/A,N/A,Yes
+408,644,26/06/2016,15/16,Copa America,Final,N,Argentina,0,Chile,0,0,0,120,7.7,3,1,2,8,6,0,N/A,0,N/A,N/A,No
+409,643,21/06/2016,15/16,Copa America,SF,A,USA,0,Argentina,4,1,2,90,9.9,4,3,1,5,4,2,N/A,0,N/A,N/A,Yes
+410,642,18/06/2016,15/16,Copa America,QF,N,Argentina,4,Venezuela,1,1,2,90,9.4,5,2,1,3,2,0,N/A,0,N/A,N/A,Yes
+411,641,14/06/2016,15/16,Copa America,Group,N,Argentina,3,Bolivia,0,0,0,45,6.7,2,0,1,1,0,0,N/A,0,N/A,N/A,No
+412,640,10/06/2016,15/16,Copa America,Group,N,Argentina,5,Panama,0,3,0,29,9.1,3,3,1,1,1,0,N/A,0,N/A,N/A,Yes
+413,639,27/05/2016,15/16,International Friendly,,H,Argentina,1,Honduras,0,0,0,64,,,,,,,,,,,,
+414,638,22/05/2016,15/16,Copa del Rey,Final,N,Barcelona,2,Sevilla,0,0,2,120,9.99,6,3,N/A,7,2,1,3,0,N/A,N/A,Yes
+415,637,14/05/2016,15/16,La Liga,,A,Granada,0,Barcelona,3,0,0,90,8.4,4,4,2,3,3,1,2,0,0.33,0.08,No
+416,636,08/05/2016,15/16,La Liga,,H,Barcelona,5,Espanyol,0,1,1,90,8.89,5,2,2,1,2,1,1,0,0.73,0.47,No
+417,635,30/04/2016,15/16,La Liga,,A,Real Betis,0,Barcelona,2,0,2,90,8.63,2,0,0,3,4,3,1,0,0.16,1.41,Yes
+418,634,23/04/2016,15/16,La Liga,,H,Barcelona,6,Sporting Gijon,0,1,1,90,10,7,3,1,5,4,3,2,1,1.57,1.16,No
+419,633,20/04/2016,15/16,La Liga,,A,Deportivo La Coruna,0,Barcelona,8,1,2,90,10,4,2,0,0,3,2,4,0,0.8,1.05,No
+420,632,17/04/2016,15/16,La Liga,,H,Barcelona,1,Valencia,2,1,0,90,8.54,7,4,2,4,3,1,2,1,1.33,0.34,Yes
+421,631,13/04/2016,15/16,Champs League,QF,A,Atletico Madrid,2,Barcelona,0,0,0,90,6.74,3,0,2,3,1,0,0,0,N/A,N/A,No
+422,630,09/04/2016,15/16,La Liga,,A,Real Sociedad,1,Barcelona,0,0,0,90,6.25,7,2,1,1,0,0,0,0,0.74,N/A,No
+423,629,05/04/2016,15/16,Champs League,QF,H,Barcelona,2,Atletico Madrid,1,0,0,90,7.8,6,1,0,7,2,0,0,0,N/A,N/A,No
+424,628,02/04/2016,15/16,La Liga,,H,Barcelona,1,Real Madrid,2,0,0,90,6.67,3,1,2,2,3,0,0,0,0.2,0.17,No
+425,627,30/03/2016,15/16,World Cup Qualifier,,H,Argentina,2,Bolivia,0,1,0,90,,,,,,,,,,,,
+426,626,25/03/2016,15/16,World Cup Qualifier,,A,Chile,1,Argentina,2,0,0,90,,,,,,,,,,,,
+427,625,20/03/2016,15/16,La Liga,,A,Villarreal,2,Barcelona,2,0,0,90,7.8,4,1,0,4,3,1,1,0,0.19,0.52,No
+428,624,16/03/2016,15/16,Champs League,R16,H,Barcelona,3,Arsenal,1,1,0,90,8.92,6,3,0,6,2,1,0,0,N/A,N/A,No
+429,623,12/03/2016,15/16,La Liga,,H,Barcelona,6,Getafe,0,1,3,90,10,6,2,2,7,6,5,2,0,1.12,2.29,Yes
+430,622,06/03/2016,15/16,La Liga,,A,Eibar,0,Barcelona,4,2,0,90,9.03,4,3,1,1,2,0,1,0,0.98,0.18,Yes
+431,621,03/03/2016,15/16,La Liga,,A,Rayo Vallecano,1,Barcelona,5,3,0,90,10,5,4,0,3,3,1,1,2,1.65,0.34,Yes
+432,620,28/02/2016,15/16,La Liga,,H,Barcelona,2,Sevilla,1,1,0,90,7.62,6,2,1,1,1,0,0,0,0.49,0.02,No
+433,619,23/02/2016,15/16,Champs League,R16,A,Arsenal,0,Barcelona,2,2,0,90,9.28,6,2,1,5,2,1,0,1,N/A,N/A,Yes
+434,618,20/02/2016,15/16,La Liga,,A,Las Palmas,1,Barcelona,2,0,0,90,7.04,4,2,1,0,2,1,0,0,1.06,0.44,No
+435,617,17/02/2016,15/16,La Liga,,A,Sporting Gijon,1,Barcelona,3,2,0,90,9.49,4,3,0,4,2,2,1,0,0.29,0.33,Yes
+436,616,14/02/2016,15/16,La Liga,,H,Barcelona,6,Celta Vigo,1,1,2,90,9.95,4,2,2,4,4,4,1,0,0.96,1.91,No
+437,615,07/02/2016,15/16,La Liga,,A,Levante,0,Barcelona,2,0,1,90,7.58,2,1,1,1,1,1,1,0,0.1,0.46,No
+438,614,03/02/2016,15/16,Copa del Rey,SF,H,Barcelona,7,Valencia,0,3,0,90,10,8,3,N/A,7,2,N/A,0,1,N/A,N/A,No
+439,613,30/01/2016,15/16,La Liga,,H,Barcelona,2,Atletico Madrid,1,1,0,90,8.16,3,2,2,5,2,0,0,0,0.58,0.09,Yes
+440,612,27/01/2016,15/16,Copa del Rey,QF,H,Barcelona,3,Athletic Bilbao,1,0,1,90,,,,,,,,,,,,
+441,611,23/01/2016,15/16,La Liga,,A,Malaga,1,Barcelona,2,1,0,90,8.19,6,3,2,3,3,2,0,0,1.3,0.63,Yes
+442,610,17/01/2016,15/16,La Liga,,H,Barcelona,6,Athletic Bilbao,0,1,0,45,6.92,3,1,1,0,1,0,0,0,0.95,0.1,No
+443,609,13/01/2016,15/16,Copa del Rey,R16,A,Espanyol,0,Barcelona,2,0,1,90,,,,,,,,,,,,
+444,608,09/01/2016,15/16,La Liga,,H,Barcelona,4,Granada,0,3,0,90,9.5,5,4,1,0,1,1,1,0,2.24,0.35,Yes
+445,607,06/01/2016,15/16,Copa del Rey,R16,H,Barcelona,4,Espanyol,1,2,2,90,,,,,,,,,,,,
+446,606,02/01/2016,15/16,La Liga,,A,Espanyol,0,Barcelona,0,0,0,90,7.54,4,1,2,4,1,0,1,0,0.23,0.02,No
+447,605,30/12/2015,15/16,La Liga,,H,Barcelona,4,Real Betis,0,1,0,90,8.81,6,3,2,1,1,1,1,0,1.32,0.46,No
+448,604,20/12/2015,15/16,Club World Cup,Final,N,Barcelona,3,River Plate,0,1,0,90,,,,,,,,,,,,
+449,603,12/12/2015,15/16,La Liga,,H,Barcelona,2,Deportivo La Coruna,2,1,1,90,9.99,6,3,2,11,5,0,1,0,0.33,0.28,Yes
+450,602,09/12/2015,15/16,Champs League,Group,A,Bayer Leverkusen,1,Barcelona,1,1,0,90,7.86,2,1,0,7,0,0,0,1,N/A,N/A,No
+451,601,05/12/2015,15/16,La Liga,,A,Valencia,1,Barcelona,1,0,1,90,7.65,7,3,1,3,2,1,0,0,1.11,0.06,No
+452,600,28/11/2015,15/16,La Liga,,H,Barcelona,4,Real Sociedad,0,1,0,90,9.3,6,2,1,7,0,0,1,0,1.25,N/A,No
+453,599,24/11/2015,15/16,Champs League,Group,H,Barcelona,6,Roma,1,2,1,90,9.78,8,6,0,2,1,1,0,1,N/A,N/A,No
+454,598,21/11/2015,15/16,La Liga,,A,Real Madrid,0,Barcelona,4,0,0,34,6.46,2,0,1,0,1,1,1,0,0.19,N/A,No
+455,597,26/09/2015,15/16,La Liga,,H,Barcelona,2,Las Palmas,1,0,0,10,6.43,1,0,0,1,0,0,0,0,0.14,N/A,No
+456,596,23/09/2015,15/16,La Liga,,A,Celta Vigo,4,Barcelona,1,0,1,90,8.97,7,3,1,5,6,2,4,1,0.71,0.9,No
+457,595,20/09/2015,15/16,La Liga,,H,Barcelona,4,Levante,1,2,1,90,10,10,4,2,8,3,1,2,0,2.12,0.73,Yes
+458,594,16/09/2015,15/16,Champs League,Group,A,Roma,1,Barcelona,1,0,0,90,7.6,8,1,1,4,2,1,1,0,N/A,N/A,No
+459,593,12/09/2015,15/16,La Liga,,A,Atletico Madrid,1,Barcelona,2,1,0,30,8.51,3,1,1,8,2,1,0,0,0.62,0.48,Yes
+460,592,09/09/2015,15/16,International Friendly,,N,Argentina,2,Mexico,2,1,0,90,,,,,,,,,,,,
+461,591,04/09/2015,15/16,International Friendly,,N,Argentina,7,Bolivia,0,2,0,25,,,,,,,,,,,,
+462,590,29/08/2015,15/16,La Liga,,H,Barcelona,1,Malaga,0,0,0,90,9.23,7,5,0,8,2,1,1,0,0.41,0.48,Yes
+463,589,23/08/2015,15/16,La Liga,,A,Athletic Bilbao,0,Barcelona,1,0,0,90,7.52,4,2,1,9,1,0,1,0,0.91,0.13,No
+464,588,17/08/2015,15/16,Supercopa de Espana,Final,H,Barcelona,1,Athletic Bilbao,1,1,0,90,7.74,2,1,N/A,3,3,0,1,0,N/A,N/A,No
+465,587,14/08/2015,15/16,Supercopa de Espana,Final,A,Athletic Bilbao,4,Barcelona,0,0,0,90,6.7,5,3,N/A,3,0,0,0,1,N/A,N/A,No
+466,586,11/08/2015,15/16,UEFA Super Cup,Final,N,Barcelona,5,Sevilla,4,2,0,120,10,8,4,N/A,6,2,N/A,1,0,N/A,N/A,Yes
+467,585,04/07/2015,14/15,Copa America,Final,A,Chile,0,Argentina,0,0,0,120,8.2,1,0,1,7,1,1,0,0,N/A,N/A,No
+468,584,01/07/2015,14/15,Copa America,SF,N,Argentina,6,Paraguay,1,0,3,90,9.71,4,1,2,6,5,3,1,0,N/A,N/A,No
+469,583,27/06/2015,14/15,Copa America,QF,N,Argentina,0,Colombia,0,0,0,90,8.6,5,1,1,10,2,0,0,2,N/A,N/A,Yes
+470,582,20/06/2015,14/15,Copa America,Group,N,Argentina,1,Jamaica,0,0,0,90,7.67,7,2,1,3,3,0,1,0,N/A,N/A,No
+471,581,17/06/2015,14/15,Copa America,Group,N,Argentina,1,Uruguay,0,0,0,90,8.49,3,2,0,11,2,1,0,0,N/A,N/A,Yes
+472,580,13/06/2015,14/15,Copa America,Group,N,Argentina,2,Paraguay,2,1,0,90,7.88,7,2,0,6,1,0,0,1,N/A,N/A,No
+473,579,06/06/2015,14/15,Champs League,Final,N,Barcelona,3,Juventus,1,0,0,90,8.23,3,1,1,10,1,0,0,1,N/A,N/A,Yes
+474,578,30/05/2015,14/15,Copa del Rey,Final,H,Barcelona,3,Athletic Bilbao,1,2,0,90,9.53,3,3,N/A,5,1,1,0,0,N/A,N/A,Yes
+475,577,23/05/2015,14/15,La Liga,,H,Barcelona,2,Deportivo La Coruna,2,2,0,90,8.94,5,4,0,4,1,0,0,0,1.05,0.07,Yes
+476,576,17/05/2015,14/15,La Liga,,A,Atletico Madrid,0,Barcelona,1,1,0,90,9.98,7,4,2,8,3,1,0,0,0.75,0.47,Yes
+477,575,12/05/2015,14/15,Champs League,SF,A,Bayern Munich,3,Barcelona,2,0,0,90,7.18,2,1,0,2,0,0,1,2,N/A,N/A,No
+478,574,09/05/2015,14/15,La Liga,,H,Barcelona,2,Real Sociedad,0,0,0,90,7.41,4,2,0,3,1,1,1,0,0.33,0.49,No
+479,573,06/05/2015,14/15,Champs League,SF,H,Barcelona,3,Bayern Munich,0,2,1,90,10,4,4,1,9,4,2,3,2,N/A,N/A,Yes
+480,572,02/05/2015,14/15,La Liga,,A,Cordoba,0,Barcelona,8,2,1,90,10,8,3,1,3,4,2,2,0,1.96,0.78,No
+481,571,28/04/2015,14/15,La Liga,,H,Barcelona,6,Getafe,0,2,1,90,10,5,4,1,5,6,0,1,0,1.31,0.5,No
+482,570,25/04/2015,14/15,La Liga,,A,Espanyol,0,Barcelona,2,1,0,90,8.54,4,1,1,4,1,1,2,1,0.93,0.52,Yes
+483,569,21/04/2015,14/15,Champs League,QF,H,Barcelona,2,Paris Saint-Germain,0,0,0,90,7.91,4,1,0,7,0,0,0,0,N/A,N/A,No
+484,568,18/04/2015,14/15,La Liga,,H,Barcelona,2,Valencia,0,1,1,90,8.9,4,2,1,4,3,1,0,0,1.45,0.56,Yes
+485,567,15/04/2015,14/15,Champs League,QF,A,Paris Saint-Germain,1,Barcelona,3,0,1,90,8.54,3,1,1,7,1,1,0,0,N/A,N/A,No
+486,566,11/04/2015,14/15,La Liga,,A,Sevilla,2,Barcelona,2,1,0,90,8.42,6,2,2,3,1,0,0,1,0.43,0.05,No
+487,565,08/04/2015,14/15,La Liga,,H,Barcelona,4,Almeria,0,1,0,90,9.59,5,4,3,5,2,0,2,0,0.23,0.1,Yes
+488,564,05/04/2015,14/15,La Liga,,A,Celta Vigo,0,Barcelona,1,0,0,90,6.66,4,1,0,3,0,0,0,0,0.74,N/A,No
+489,563,22/03/2015,14/15,La Liga,,H,Barcelona,2,Real Madrid,1,0,1,90,8.61,5,1,1,5,4,2,1,0,0.42,0.81,Yes
+490,562,18/03/2015,14/15,Champs League,R16,H,Barcelona,1,Manchester City,0,0,1,90,10,8,3,3,10,5,4,2,0,N/A,N/A,Yes
+491,561,14/03/2015,14/15,La Liga,,A,Eibar,0,Barcelona,2,2,0,90,9.76,4,2,0,9,2,1,2,0,0.99,0.49,Yes
+492,560,08/03/2015,14/15,La Liga,,H,Barcelona,6,Rayo Vallecano,1,3,1,90,10,6,4,1,3,3,1,2,0,2.49,0.83,Yes
+493,559,04/03/2015,14/15,Copa del Rey,SF,A,Villarreal,1,Barcelona,3,0,1,90,9.24,1,1,N/A,6,3,2,3,1,N/A,N/A,Yes
+494,558,28/02/2015,14/15,La Liga,,A,Granada,1,Barcelona,3,1,0,90,8.77,6,3,1,7,1,1,0,0,2.03,0.46,Yes
+495,557,24/02/2015,14/15,Champs League,R16,A,Manchester City,1,Barcelona,2,0,0,90,8.9,4,2,0,10,3,1,1,1,N/A,N/A,Yes
+496,556,21/02/2015,14/15,La Liga,,H,Barcelona,0,Malaga,1,0,0,90,7.46,1,0,1,6,2,1,2,0,0.06,0.52,No
+497,555,15/02/2015,14/15,La Liga,,H,Barcelona,5,Levante,0,3,1,90,10,9,5,1,6,1,1,0,0,2.23,0.42,Yes
+498,554,11/02/2015,14/15,Copa del Rey,SF,H,Barcelona,3,Villarreal,1,1,1,90,9.1,6,2,N/A,4,3,1,1,0,N/A,N/A,Yes
+499,553,08/02/2015,14/15,La Liga,,A,Athletic Bilbao,2,Barcelona,5,1,2,90,9.74,4,1,1,4,5,1,2,0,0.9,0.96,Yes
+500,552,01/02/2015,14/15,La Liga,,H,Barcelona,3,Villarreal,2,1,0,90,9.1,3,2,1,4,6,1,1,1,0.25,0.71,Yes
+501,551,28/01/2015,14/15,Copa del Rey,QF,A,Atletico Madrid,2,Barcelona,3,0,0,90,8.04,3,2,N/A,6,2,1,0,0,N/A,N/A,No
+502,550,24/01/2015,14/15,La Liga,,A,Elche,0,Barcelona,6,2,2,90,10,4,3,2,2,4,2,3,0,0.94,1.09,Yes
+503,549,21/01/2015,14/15,Copa del Rey,QF,H,Barcelona,1,Atletico Madrid,0,1,0,90,8.74,6,2,N/A,12,0,0,0,0,N/A,N/A,Yes
+504,548,18/01/2015,14/15,La Liga,,A,Deportivo La Coruna,0,Barcelona,4,3,0,90,10,7,4,1,5,0,0,0,1,1.44,N/A,Yes
+505,547,11/01/2015,14/15,La Liga,,H,Barcelona,3,Atletico Madrid,1,1,1,90,9.67,7,3,1,12,2,1,0,0,1.14,0.54,Yes
+506,546,08/01/2015,14/15,Copa del Rey,R16,H,Barcelona,5,Elche,0,1,2,90,,,,,,,,,,,,
+507,545,04/01/2015,14/15,La Liga,,A,Real Sociedad,1,Barcelona,0,0,0,45,6.65,2,0,1,2,1,0,0,0,0.1,0.02,No
+508,544,20/12/2014,14/15,La Liga,,H,Barcelona,5,Cordoba,0,2,0,90,9.43,4,2,0,4,1,0,0,0,0.36,0.06,Yes
+509,543,13/12/2014,14/15,La Liga,,A,Getafe,0,Barcelona,0,0,0,90,8.36,7,2,2,8,2,0,0,0,0.54,0.09,Yes
+510,542,10/12/2014,14/15,Champs League,Group,H,Barcelona,3,Paris Saint-Germain,1,1,0,90,8.28,3,1,1,6,0,0,0,0,N/A,N/A,No
+511,541,07/12/2014,14/15,La Liga,,H,Barcelona,5,Espanyol,1,3,0,90,10,6,3,2,4,1,1,2,0,0.85,0.28,Yes
+512,540,30/11/2014,14/15,La Liga,,A,Valencia,0,Barcelona,1,0,0,90,7.4,2,0,1,3,3,1,2,0,0.12,0.61,No
+513,539,25/11/2014,14/15,Champs League,Group,A,APOEL,0,Barcelona,4,3,0,90,10,5,4,1,6,8,3,2,1,N/A,N/A,Yes
+514,538,22/11/2014,14/15,La Liga,,H,Barcelona,5,Sevilla,1,3,0,90,10,5,5,1,6,2,1,2,0,1.34,0.37,Yes
+515,537,18/11/2014,14/15,International Friendly,,N,Argentina,0,Portugal,1,0,0,45,6.65,2,0,1,1,1,0,0,0,N/A,N/A,No
+516,536,12/11/2014,14/15,International Friendly,,N,Argentina,2,Croatia,1,1,0,90,,,,,,,,,,,,
+517,535,08/11/2014,14/15,La Liga,,A,Almeria,1,Barcelona,2,0,0,90,6.52,6,3,0,1,0,0,0,0,1.34,N/A,No
+518,534,05/11/2014,14/15,Champs League,Group,A,Ajax,0,Barcelona,2,2,0,90,10,8,4,2,6,3,2,2,3,N/A,N/A,Yes
+519,533,01/11/2014,14/15,La Liga,,H,Barcelona,0,Celta Vigo,1,0,0,90,7.9,6,3,2,7,2,0,1,1,1.04,0.07,No
+520,532,25/10/2014,14/15,La Liga,,A,Real Madrid,3,Barcelona,1,0,0,90,7.02,4,2,2,4,3,0,0,0,0.75,0.23,No
+521,531,21/10/2014,14/15,Champs League,Group,H,Barcelona,3,Ajax,1,1,1,66,8.61,5,1,0,3,2,2,0,0,N/A,N/A,Yes
+522,530,18/10/2014,14/15,La Liga,,H,Barcelona,3,Eibar,0,1,1,90,9.95,8,6,0,5,3,1,1,0,1.36,0.5,Yes
+523,529,14/10/2014,14/15,International Friendly,,A,Hong Kong,0,Argentina,7,2,1,30,,,,,,,,,,,,
+524,528,11/10/2014,14/15,International Friendly,,N,Argentina,0,Brazil,2,0,0,90,,,,,,,,,,,,
+525,527,04/10/2014,14/15,La Liga,,A,Rayo Vallecano,0,Barcelona,2,1,0,90,7.35,8,3,1,1,1,0,0,0,2.19,0.04,No
+526,526,30/09/2014,14/15,Champs League,Group,A,Paris Saint-Germain,3,Barcelona,2,1,0,90,8.89,2,1,1,7,3,0,1,0,N/A,N/A,Yes
+527,525,27/09/2014,14/15,La Liga,,H,Barcelona,6,Granada,0,2,2,90,10,3,3,0,4,5,2,0,1,1.11,1.56,Yes
+528,524,24/09/2014,14/15,La Liga,,A,Malaga,0,Barcelona,0,0,0,90,6.86,2,0,1,4,1,0,0,0,0.16,0.06,No
+529,523,21/09/2014,14/15,La Liga,,A,Levante,0,Barcelona,5,1,2,90,9.61,3,1,0,1,5,3,1,2,1.24,1.28,Yes
+530,522,17/09/2014,14/15,Champs League,Group,H,Barcelona,1,APOEL,0,0,1,90,9.15,5,2,1,9,6,1,1,0,N/A,N/A,Yes
+531,521,13/09/2014,14/15,La Liga,,H,Barcelona,2,Athletic Bilbao,0,0,2,90,8.74,2,0,0,3,6,3,1,1,0.14,1.62,Yes
+532,520,31/08/2014,14/15,La Liga,,A,Villarreal,0,Barcelona,1,0,0,90,8.5,8,4,2,5,4,0,0,0,0.92,0.26,Yes
+533,519,24/08/2014,14/15,La Liga,,H,Barcelona,3,Elche,0,2,0,90,10,3,2,0,7,3,0,2,0,0.26,0.18,Yes
+534,518,13/07/2014,13/14,World Cup,Final,N,Argentina,0,Germany,1,0,0,120,7.03,4,0,1,7,2,0,0,0,N/A,N/A,No
+535,517,09/07/2014,13/14,World Cup,SF,N,Argentina,0,Netherlands,0,0,0,120,9.03,1,1,1,10,2,0,0,0,N/A,N/A,Yes
+536,516,05/07/2014,13/14,World Cup,QF,N,Argentina,1,Belgium,0,0,0,90,7.33,2,1,1,5,1,0,1,0,N/A,N/A,No
+537,515,01/07/2014,13/14,World Cup,R16,N,Argentina,1,Switzerland,0,0,1,120,9.41,2,1,0,7,8,0,0,0,N/A,N/A,Yes
+538,514,25/06/2014,13/14,World Cup,Group,N,Argentina,3,Nigeria,2,2,0,63,9.48,4,3,2,3,3,2,2,0,N/A,N/A,Yes
+539,513,21/06/2014,13/14,World Cup,Group,N,Argentina,1,Iran,0,1,0,90,8.91,6,1,2,7,3,1,0,0,N/A,N/A,Yes
+540,512,16/06/2014,13/14,World Cup,Group,N,Argentina,2,Bosnia and Herzegovina,1,1,0,90,9.21,4,1,1,7,4,1,1,0,N/A,N/A,Yes
+541,511,07/06/2014,13/14,International Friendly,,H,Argentina,2,Slovenia,0,1,0,33,8.15,4,2,2,3,2,0,0,0,N/A,N/A,Yes
+542,510,04/06/2014,13/14,International Friendly,,H,Argentina,3,Trinidad and Tobago,0,0,0,90,,,,,,,,,,,,
+543,509,17/05/2014,13/14,La Liga,,H,Barcelona,1,Atletico Madrid,1,0,1,90,6.93,1,0,N/A,5,1,0,0,0,N/A,N/A,No
+544,508,11/05/2014,13/14,La Liga,,A,Elche,0,Barcelona,0,0,0,90,7.07,8,3,N/A,3,1,0,0,1,N/A,N/A,No
+545,507,03/05/2014,13/14,La Liga,,H,Barcelona,2,Getafe,2,1,0,90,8.98,5,2,N/A,8,4,2,1,0,N/A,N/A,Yes
+546,506,27/04/2014,13/14,La Liga,,A,Villarreal,2,Barcelona,3,1,0,90,9.4,7,1,N/A,5,5,0,0,0,N/A,N/A,Yes
+547,505,20/04/2014,13/14,La Liga,,H,Barcelona,2,Athletic Bilbao,1,1,0,90,8.32,4,2,N/A,4,3,1,1,0,N/A,N/A,Yes
+548,504,16/04/2014,13/14,Copa del Rey,Final,N,Barcelona,1,Real Madrid,2,0,0,90,6.25,3,0,N/A,1,0,0,0,0,N/A,N/A,No
+549,503,12/04/2014,13/14,La Liga,,A,Granada,1,Barcelona,0,0,0,90,7.78,5,1,N/A,9,4,0,0,0,N/A,N/A,No
+550,502,09/04/2014,13/14,Champs League,QF,A,Atletico Madrid,1,Barcelona,0,0,0,90,6.29,4,0,1,2,2,0,1,0,N/A,N/A,No
+551,501,05/04/2014,13/14,La Liga,,H,Barcelona,3,Real Betis,1,2,0,90,8.34,5,3,N/A,4,3,0,0,0,N/A,N/A,Yes
+552,500,01/04/2014,13/14,Champs League,QF,H,Barcelona,1,Atletico Madrid,1,0,0,90,7.33,5,2,2,2,3,0,1,1,N/A,N/A,No
+553,499,29/03/2014,13/14,La Liga,,A,Espanyol,0,Barcelona,1,1,0,90,7.59,8,2,N/A,6,2,0,0,0,N/A,N/A,No
+554,498,26/03/2014,13/14,La Liga,,H,Barcelona,3,Celta Vigo,0,1,0,90,8.46,3,2,N/A,5,2,0,1,0,N/A,N/A,No
+555,497,23/03/2014,13/14,La Liga,,A,Real Madrid,3,Barcelona,4,3,1,90,10,6,3,N/A,1,5,1,3,0,N/A,N/A,Yes
+556,496,16/03/2014,13/14,La Liga,,H,Barcelona,7,Osasuna,0,3,1,90,10,5,4,N/A,4,2,2,0,0,N/A,N/A,Yes
+557,495,12/03/2014,13/14,Champs League,R16,H,Barcelona,2,Manchester City,1,1,0,90,9.33,3,1,0,7,5,0,2,0,N/A,N/A,Yes
+558,494,08/03/2014,13/14,La Liga,,A,Real Valladolid,1,Barcelona,0,0,0,90,7.51,5,5,N/A,3,3,1,0,0,N/A,N/A,No
+559,493,05/03/2014,13/14,International Friendly,,A,Romania,0,Argentina,0,0,0,90,,,,,,,,,,,,
+560,492,02/03/2014,13/14,La Liga,,H,Barcelona,4,Almeria,1,1,0,90,9.6,11,2,N/A,5,4,1,1,1,N/A,N/A,Yes
+561,491,22/02/2014,13/14,La Liga,,A,Real Sociedad,3,Barcelona,1,1,0,90,7.43,3,1,N/A,2,1,0,0,1,N/A,N/A,No
+562,490,18/02/2014,13/14,Champs League,R16,A,Manchester City,0,Barcelona,2,1,0,90,8.24,6,2,1,4,0,0,0,0,N/A,N/A,Yes
+563,489,15/02/2014,13/14,La Liga,,H,Barcelona,6,Rayo Vallecano,0,2,1,74,10,7,4,N/A,5,1,1,0,0,N/A,N/A,Yes
+564,488,12/02/2014,13/14,Copa del Rey,SF,A,Real Sociedad,1,Barcelona,1,1,0,90,8.21,5,3,N/A,2,2,1,1,0,N/A,N/A,Yes
+565,487,09/02/2014,13/14,La Liga,,A,Sevilla,1,Barcelona,4,2,1,90,9.78,2,2,N/A,3,3,1,0,0,N/A,N/A,Yes
+566,486,05/02/2014,13/14,Copa del Rey,SF,H,Barcelona,2,Real Sociedad,0,0,0,90,7.68,6,2,N/A,5,2,0,0,1,N/A,N/A,No
+567,485,01/02/2014,13/14,La Liga,,H,Barcelona,2,Valencia,3,1,1,90,9.54,8,3,N/A,9,6,0,1,0,N/A,N/A,Yes
+568,484,26/01/2014,13/14,La Liga,,H,Barcelona,3,Malaga,0,0,1,90,8.38,4,0,N/A,7,4,0,1,0,N/A,N/A,No
+569,483,22/01/2014,13/14,Copa del Rey,QF,A,Levante,1,Barcelona,4,0,3,90,10,8,1,N/A,7,6,5,4,0,N/A,N/A,Yes
+570,482,19/01/2014,13/14,La Liga,,A,Levante,1,Barcelona,1,0,0,90,7.14,6,1,N/A,5,0,0,0,0,N/A,N/A,No
+571,481,16/01/2014,13/14,Copa del Rey,R16,A,Getafe,0,Barcelona,2,2,0,90,9.65,8,5,N/A,8,0,0,0,0,N/A,N/A,Yes
+572,480,11/01/2014,13/14,La Liga,,A,Atletico Madrid,0,Barcelona,0,0,0,45,6.98,3,1,N/A,4,1,0,0,0,N/A,N/A,No
+573,479,08/01/2014,13/14,Copa del Rey,R16,H,Barcelona,4,Getafe,0,2,0,26,8.94,4,2,N/A,4,1,1,0,0,N/A,N/A,Yes
+574,478,10/11/2013,13/14,La Liga,,A,Real Betis,1,Barcelona,4,0,0,21,6.17,0,0,N/A,1,0,0,0,0,N/A,N/A,No
+575,477,06/11/2013,13/14,Champs League,Group,H,Barcelona,3,AC Milan,1,2,0,90,9,3,2,0,5,3,1,2,0,N/A,N/A,Yes
+576,476,01/11/2013,13/14,La Liga,,H,Barcelona,1,Espanyol,0,0,0,90,7.54,5,1,N/A,5,1,0,0,2,N/A,N/A,No
+577,475,29/10/2013,13/14,La Liga,,A,Celta Vigo,0,Barcelona,3,0,1,90,9.4,10,5,N/A,7,4,1,0,0,N/A,N/A,Yes
+578,474,26/10/2013,13/14,La Liga,,H,Barcelona,2,Real Madrid,1,0,0,90,7.3,3,0,N/A,2,1,0,0,0,N/A,N/A,No
+579,473,22/10/2013,13/14,Champs League,Group,A,AC Milan,1,Barcelona,1,1,0,90,8.41,6,1,2,3,3,1,1,1,N/A,N/A,Yes
+580,472,19/10/2013,13/14,La Liga,,A,Osasuna,0,Barcelona,0,0,0,22,6.25,2,1,N/A,0,0,0,0,0,N/A,N/A,No
+581,471,28/09/2013,13/14,La Liga,,A,Almeria,0,Barcelona,2,1,0,29,8,2,1,N/A,3,2,1,0,0,N/A,N/A,No
+582,470,24/09/2013,13/14,La Liga,,H,Barcelona,4,Real Sociedad,1,1,1,80,9.87,8,4,N/A,6,2,2,0,0,N/A,N/A,Yes
+583,469,21/09/2013,13/14,La Liga,,A,Rayo Vallecano,0,Barcelona,4,0,1,90,9.01,3,2,N/A,6,3,1,0,0,N/A,N/A,No
+584,468,18/09/2013,13/14,Champs League,Group,H,Barcelona,4,Ajax,0,3,0,90,10,6,4,2,2,0,0,0,0,N/A,N/A,Yes
+585,467,14/09/2013,13/14,La Liga,,H,Barcelona,3,Sevilla,2,1,0,90,8.42,6,2,N/A,6,1,0,0,0,N/A,N/A,No
+586,466,10/09/2013,13/14,World Cup Qualifier,,A,Paraguay,2,Argentina,5,2,1,90,,,,,,,,,,,,
+587,465,01/09/2013,13/14,La Liga,,A,Valencia,2,Barcelona,3,3,0,90,10,9,7,N/A,6,4,0,0,0,N/A,N/A,Yes
+588,464,28/08/2013,13/14,Supercopa de Espana,Final,H,Barcelona,0,Atletico Madrid,0,0,0,90,,,,,,,,,,,,
+589,463,21/08/2013,13/14,Supercopa de Espana,Final,A,Atletico Madrid,1,Barcelona,1,0,0,45,,,,,,,,,,,,
+590,462,18/08/2013,13/14,La Liga,,H,Barcelona,7,Levante,0,2,1,71,10,6,4,N/A,5,2,1,2,0,N/A,N/A,Yes
+591,461,14/06/2013,12/13,International Friendly,,A,Guatemala,0,Argentina,4,3,1,68,,,,,,,,,,,,
+592,460,11/06/2013,12/13,World Cup Qualifier,,A,Ecuador,1,Argentina,1,0,0,30,,,,,,,,,,,,
+593,459,08/06/2013,12/13,World Cup Qualifier,,H,Argentina,0,Colombia,0,0,0,33,,,,,,,,,,,,
+594,458,12/05/2013,12/13,La Liga,,A,Atletico Madrid,1,Barcelona,2,0,0,70,6.68,3,1,N/A,3,1,0,0,0,N/A,N/A,No
+595,457,05/05/2013,12/13,La Liga,,H,Barcelona,4,Real Betis,2,2,0,34,8.44,4,2,N/A,3,0,0,0,0,N/A,N/A,No
+596,456,27/04/2013,12/13,La Liga,,A,Athletic Bilbao,2,Barcelona,2,1,1,31,8.3,5,1,N/A,5,3,1,0,0,N/A,N/A,Yes
+597,455,23/04/2013,12/13,Champs League,SF,A,Bayern Munich,4,Barcelona,0,0,0,90,6.21,1,0,0,2,0,0,0,0,N/A,N/A,No
+598,454,10/04/2013,12/13,Champs League,QF,H,Barcelona,1,Paris Saint-Germain,1,0,0,28,6.31,0,0,0,2,0,0,0,0,N/A,N/A,No
+599,453,02/04/2013,12/13,Champs League,QF,A,Paris Saint-Germain,2,Barcelona,2,1,0,45,7.26,2,1,0,1,2,0,0,0,N/A,N/A,No
+600,452,30/03/2013,12/13,La Liga,,A,Celta Vigo,2,Barcelona,2,1,1,90,8.8,4,2,N/A,3,3,0,3,0,N/A,N/A,Yes
+601,451,26/03/2013,12/13,World Cup Qualifier,,A,Bolivia,1,Argentina,1,0,0,90,,,,,,,,,,,,
+602,450,23/03/2013,12/13,World Cup Qualifier,,H,Argentina,3,Venezuela,0,1,2,90,,,,,,,,,,,,
+603,449,17/03/2013,12/13,La Liga,,H,Barcelona,3,Rayo Vallecano,1,2,1,90,10,6,4,N/A,4,3,1,0,1,N/A,N/A,Yes
+604,448,12/03/2013,12/13,Champs League,R16,H,Barcelona,4,AC Milan,0,2,0,90,9.66,7,3,N/A,3,1,0,1,1,N/A,N/A,Yes
+605,447,09/03/2013,12/13,La Liga,,H,Barcelona,2,Deportivo La Coruna,0,1,0,28,7.26,1,1,N/A,2,0,0,0,0,N/A,N/A,No
+606,446,02/03/2013,12/13,La Liga,,A,Real Madrid,2,Barcelona,1,1,0,90,7.82,2,2,N/A,3,1,0,0,0,N/A,N/A,No
+607,445,26/02/2013,12/13,Copa del Rey,SF,H,Barcelona,1,Real Madrid,3,0,0,90,6.48,2,0,N/A,2,0,0,0,0,N/A,N/A,No
+608,444,23/02/2013,12/13,La Liga,,H,Barcelona,2,Sevilla,1,1,0,90,8.44,7,2,N/A,5,2,0,0,0,N/A,N/A,Yes
+609,443,20/02/2013,12/13,Champs League,R16,A,AC Milan,2,Barcelona,0,0,0,90,6.44,2,0,N/A,4,0,0,0,0,N/A,N/A,No
+610,442,16/02/2013,12/13,La Liga,,A,Granada,1,Barcelona,2,2,0,90,10,8,5,N/A,9,1,0,2,0,N/A,N/A,Yes
+611,441,10/02/2013,12/13,La Liga,,H,Barcelona,6,Getafe,1,1,1,90,10,7,3,N/A,7,1,0,1,0,N/A,N/A,No
+612,440,06/02/2013,12/13,International Friendly,,A,Sweden,2,Argentina,3,0,0,90,,,,,,,,,,,,
+613,439,03/02/2013,12/13,La Liga,,A,Valencia,1,Barcelona,1,1,0,90,7.43,5,1,N/A,3,1,1,1,1,N/A,N/A,No
+614,438,30/01/2013,12/13,Copa del Rey,SF,A,Real Madrid,1,Barcelona,1,0,1,90,,,,,,,,,,,,
+615,437,27/01/2013,12/13,La Liga,,H,Barcelona,5,Osasuna,1,4,0,90,10,7,4,N/A,3,3,0,0,1,N/A,N/A,Yes
+616,436,24/01/2013,12/13,Copa del Rey,QF,A,Malaga,2,Barcelona,4,1,0,82,,,,,,,,,,,,
+617,435,19/01/2013,12/13,La Liga,,A,Real Sociedad,3,Barcelona,2,1,0,90,7.83,5,2,N/A,3,0,0,0,1,N/A,N/A,No
+618,434,16/01/2013,12/13,Copa del Rey,QF,H,Barcelona,2,Malaga,2,1,0,90,,,,,,,,,,,,
+619,433,13/01/2013,12/13,La Liga,,A,Malaga,1,Barcelona,3,1,2,90,8.87,4,1,N/A,3,2,1,1,0,N/A,N/A,Yes
+620,432,06/01/2013,12/13,La Liga,,H,Barcelona,4,Espanyol,0,1,1,90,9.3,5,2,N/A,4,2,1,0,0,N/A,N/A,Yes
+621,431,22/12/2012,12/13,La Liga,,A,Real Valladolid,1,Barcelona,3,1,0,90,9.47,7,3,N/A,7,0,0,1,0,N/A,N/A,Yes
+622,430,16/12/2012,12/13,La Liga,,H,Barcelona,4,Atletico Madrid,1,2,0,90,9.13,4,2,N/A,2,0,0,0,0,N/A,N/A,Yes
+623,429,12/12/2012,12/13,Copa del Rey,R16,A,Cordoba,0,Barcelona,2,2,0,90,,,,,,,,,,,,
+624,428,09/12/2012,12/13,La Liga,,A,Real Betis,1,Barcelona,2,2,0,90,8.95,4,3,N/A,3,1,1,0,0,N/A,N/A,Yes
+625,427,05/12/2012,12/13,Champs League,Group,H,Barcelona,0,Benfica,0,0,0,28,6.31,3,2,N/A,0,0,0,0,0,N/A,N/A,No
+626,426,01/12/2012,12/13,La Liga,,H,Barcelona,5,Athletic Bilbao,1,2,0,90,10,7,3,N/A,6,3,1,0,0,N/A,N/A,Yes
+627,425,25/11/2012,12/13,La Liga,,A,Levante,0,Barcelona,4,2,0,90,9.77,5,3,N/A,4,3,0,0,0,N/A,N/A,No
+628,424,20/11/2012,12/13,Champs League,Group,A,Spartak Moscow,0,Barcelona,3,2,0,90,9.42,2,2,N/A,2,3,1,2,0,N/A,N/A,Yes
+629,423,17/11/2012,12/13,La Liga,,H,Barcelona,3,Real Zaragoza,1,2,1,90,9.71,3,2,N/A,3,2,0,0,0,N/A,N/A,Yes
+630,422,14/11/2012,12/13,International Friendly,,A,Saudi Arabia,0,Argentina,0,0,0,90,,,,,,,,,,,,
+631,421,11/11/2012,12/13,La Liga,,A,Mallorca,2,Barcelona,4,2,0,90,9.15,4,2,N/A,3,1,0,0,0,N/A,N/A,Yes
+632,420,07/11/2012,12/13,Champs League,Group,A,Celtic,2,Barcelona,1,1,0,90,8.58,6,4,N/A,1,4,0,2,0,N/A,N/A,Yes
+633,419,03/11/2012,12/13,La Liga,,H,Barcelona,3,Celta Vigo,1,0,0,90,6.81,5,2,N/A,1,1,0,0,0,N/A,N/A,No
+634,418,27/10/2012,12/13,La Liga,,A,Rayo Vallecano,0,Barcelona,5,2,0,90,9.18,7,3,N/A,1,1,0,0,0,N/A,N/A,No
+635,417,23/10/2012,12/13,Champs League,Group,H,Barcelona,2,Celtic,1,0,0,90,7.26,8,3,N/A,2,3,0,0,0,N/A,N/A,No
+636,416,20/10/2012,12/13,La Liga,,A,Deportivo La Coruna,4,Barcelona,5,3,1,90,10,5,4,N/A,3,2,0,0,0,N/A,N/A,Yes
+637,415,17/10/2012,12/13,World Cup Qualifier,,A,Chile,1,Argentina,2,1,0,90,,,,,,,,,,,,
+638,414,13/10/2012,12/13,World Cup Qualifier,,H,Argentina,3,Uruguay,0,2,0,90,,,,,,,,,,,,
+639,413,07/10/2012,12/13,La Liga,,H,Barcelona,2,Real Madrid,2,2,0,90,9.12,4,2,N/A,4,0,0,0,1,N/A,N/A,Yes
+640,412,02/10/2012,12/13,Champs League,Group,A,Benfica,0,Barcelona,2,0,2,90,9.14,3,2,N/A,3,3,2,1,2,N/A,N/A,Yes
+641,411,29/09/2012,12/13,La Liga,,A,Sevilla,2,Barcelona,3,0,2,90,9.13,5,2,N/A,4,2,2,2,0,N/A,N/A,Yes
+642,410,22/09/2012,12/13,La Liga,,H,Barcelona,2,Granada,0,0,0,90,7.57,7,3,N/A,5,1,0,0,0,N/A,N/A,No
+643,409,19/09/2012,12/13,Champs League,Group,H,Barcelona,3,Spartak Moscow,2,2,0,90,8.57,7,3,N/A,1,1,0,0,0,N/A,N/A,Yes
+644,408,15/09/2012,12/13,La Liga,,A,Getafe,1,Barcelona,4,2,0,31,7.75,3,2,N/A,1,1,0,0,0,N/A,N/A,No
+645,407,12/09/2012,12/13,World Cup Qualifier,,A,Peru,1,Argentina,1,0,0,90,,,,,,,,,,,,
+646,406,08/09/2012,12/13,World Cup Qualifier,,H,Argentina,3,Paraguay,1,1,0,90,,,,,,,,,,,,
+647,405,02/09/2012,12/13,La Liga,,H,Barcelona,1,Valencia,0,0,1,90,8.33,5,1,N/A,9,2,1,1,0,N/A,N/A,No
+648,404,29/08/2012,12/13,Supercopa de Espana,Final,A,Real Madrid,2,Barcelona,1,1,0,90,,,,,,,,,,,,
+649,403,26/08/2012,12/13,La Liga,,A,Osasuna,1,Barcelona,2,2,0,90,9.64,7,6,N/A,4,2,0,1,0,N/A,N/A,Yes
+650,402,23/08/2012,12/13,Supercopa de Espana,Final,H,Barcelona,3,Real Madrid,2,1,0,90,,,,,,,,,,,,
+651,401,19/08/2012,12/13,La Liga,,H,Barcelona,5,Real Sociedad,1,2,0,90,9.76,8,4,N/A,2,1,0,0,0,N/A,N/A,Yes
+652,400,15/08/2012,12/13,International Friendly,,A,Germany,1,Argentina,3,1,0,90,,,,,,,,,,,,
+653,399,09/06/2012,11/12,International Friendly,,N,Argentina,4,Brazil,3,3,0,90,,,,,,,,,,,,
+654,398,02/06/2012,11/12,World Cup Qualifier,,H,Argentina,4,Ecuador,0,1,1,90,,,,,,,,,,,,
+655,397,25/05/2012,11/12,Copa del Rey,Final,N,Barcelona,3,Athletic Bilbao,0,1,0,90,,,,,,,,,,,,
+656,396,12/05/2012,11/12,La Liga,,A,Real Betis,2,Barcelona,2,0,0,90,7.59,3,0,N/A,3,1,0,1,0,N/A,N/A,No
+657,395,05/05/2012,11/12,La Liga,,H,Barcelona,4,Espanyol,0,4,0,90,10,6,4,N/A,2,2,0,1,0,N/A,N/A,Yes
+658,394,02/05/2012,11/12,La Liga,,H,Barcelona,4,Malaga,1,3,0,90,9.08,6,3,N/A,2,0,0,0,1,N/A,N/A,No
+659,393,29/04/2012,11/12,La Liga,,A,Rayo Vallecano,0,Barcelona,7,2,2,90,10,7,3,N/A,6,3,0,2,0,N/A,N/A,Yes
+660,392,24/04/2012,11/12,Champs League,SF,H,Barcelona,2,Chelsea,2,0,1,90,7.55,5,2,N/A,3,2,1,1,0,N/A,N/A,No
+661,391,21/04/2012,11/12,La Liga,,H,Barcelona,1,Real Madrid,2,0,0,90,7.8,1,0,N/A,8,2,1,3,0,N/A,N/A,No
+662,390,18/04/2012,11/12,Champs League,SF,A,Chelsea,1,Barcelona,0,0,0,90,7.57,7,1,N/A,6,3,0,0,0,N/A,N/A,No
+663,389,14/04/2012,11/12,La Liga,,A,Levante,1,Barcelona,2,2,0,90,9.57,7,2,N/A,7,4,1,2,0,N/A,N/A,Yes
+664,388,10/04/2012,11/12,La Liga,,H,Barcelona,4,Getafe,0,1,2,90,9.93,5,2,N/A,3,3,1,3,0,N/A,N/A,Yes
+665,387,07/04/2012,11/12,La Liga,,A,Real Zaragoza,1,Barcelona,4,2,1,90,9.81,7,3,N/A,4,2,0,1,0,N/A,N/A,Yes
+666,386,03/04/2012,11/12,Champs League,QF,H,Barcelona,3,AC Milan,1,2,0,90,9.75,9,5,N/A,5,4,1,1,0,N/A,N/A,Yes
+667,385,31/03/2012,11/12,La Liga,,H,Barcelona,2,Athletic Bilbao,0,1,1,90,9.42,6,4,N/A,3,5,2,0,0,N/A,N/A,Yes
+668,384,28/03/2012,11/12,Champs League,QF,A,AC Milan,0,Barcelona,0,0,0,90,7.09,6,2,N/A,4,2,0,0,0,N/A,N/A,No
+669,383,24/03/2012,11/12,La Liga,,A,Mallorca,0,Barcelona,2,1,0,90,8.99,9,2,N/A,6,2,0,1,0,N/A,N/A,Yes
+670,382,20/03/2012,11/12,La Liga,,H,Barcelona,5,Granada,3,3,1,90,10,6,5,N/A,2,2,0,2,0,N/A,N/A,Yes
+671,381,17/03/2012,11/12,La Liga,,A,Sevilla,0,Barcelona,2,1,0,90,8.49,3,1,N/A,2,2,1,2,0,N/A,N/A,Yes
+672,380,11/03/2012,11/12,La Liga,,A,Racing Santander,0,Barcelona,2,2,0,90,9.38,9,4,N/A,5,3,1,1,0,N/A,N/A,Yes
+673,379,07/03/2012,11/12,Champs League,R16,H,Barcelona,7,Bayer Leverkusen,1,5,0,90,10,7,6,N/A,1,1,0,1,0,N/A,N/A,Yes
+674,378,29/02/2012,11/12,International Friendly,,A,Switzerland,1,Argentina,3,3,0,90,,,,,,,,,,,,
+675,377,26/02/2012,11/12,La Liga,,A,Atletico Madrid,1,Barcelona,2,1,0,90,7.69,1,1,N/A,2,1,0,0,0,N/A,N/A,No
+676,376,19/02/2012,11/12,La Liga,,H,Barcelona,5,Valencia,1,4,0,90,10,10,5,N/A,9,7,3,2,0,N/A,N/A,Yes
+677,375,14/02/2012,11/12,Champs League,R16,A,Bayer Leverkusen,1,Barcelona,3,1,1,90,9.51,4,2,N/A,5,1,1,4,0,N/A,N/A,Yes
+678,374,11/02/2012,11/12,La Liga,,A,Osasuna,3,Barcelona,2,0,0,90,8.56,5,3,N/A,6,5,3,2,0,N/A,N/A,Yes
+679,373,08/02/2012,11/12,Copa del Rey,SF,H,Barcelona,2,Valencia,0,0,1,90,,,,,,,,,,,,
+680,372,04/02/2012,11/12,La Liga,,H,Barcelona,2,Real Sociedad,1,1,1,90,9.38,7,5,N/A,6,4,0,1,0,N/A,N/A,Yes
+681,371,01/02/2012,11/12,Copa del Rey,SF,A,Valencia,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+682,370,28/01/2012,11/12,La Liga,,A,Villarreal,0,Barcelona,0,0,0,90,6.93,5,2,N/A,4,0,0,1,0,N/A,N/A,No
+683,369,25/01/2012,11/12,Copa del Rey,QF,H,Barcelona,2,Real Madrid,2,0,1,90,,,,,,,,,,,,
+684,368,22/01/2012,11/12,La Liga,,A,Malaga,1,Barcelona,4,3,0,90,10,8,6,N/A,6,2,0,2,0,N/A,N/A,Yes
+685,367,18/01/2012,11/12,Copa del Rey,QF,A,Real Madrid,1,Barcelona,2,0,1,90,,,,,,,,,,,,
+686,366,15/01/2012,11/12,La Liga,,H,Barcelona,4,Real Betis,2,2,0,90,8.63,5,3,N/A,2,0,0,3,0,N/A,N/A,No
+687,365,12/01/2012,11/12,Copa del Rey,R16,A,Osasuna,1,Barcelona,2,0,1,32,,,,,,,,,,,,
+688,364,08/01/2012,11/12,La Liga,,A,Espanyol,1,Barcelona,1,0,0,90,6.74,1,0,N/A,1,1,1,1,0,N/A,N/A,No
+689,363,04/01/2012,11/12,Copa del Rey,R16,H,Barcelona,4,Osasuna,0,2,0,31,,,,,,,,,,,,
+690,362,18/12/2011,11/12,Club World Cup,Final,N,Barcelona,4,Santos,0,2,0,90,,,,,,,,,,,,
+691,361,15/12/2011,11/12,Club World Cup,SF,N,Barcelona,4,Al-Sadd SC,0,0,1,90,,,,,,,,,,,,
+692,360,10/12/2011,11/12,La Liga,,A,Real Madrid,1,Barcelona,3,0,1,90,8.81,2,1,N/A,4,3,1,3,0,N/A,N/A,Yes
+693,359,03/12/2011,11/12,La Liga,,H,Barcelona,5,Levante,0,1,1,90,9.54,6,2,N/A,6,3,0,0,0,N/A,N/A,Yes
+694,358,29/11/2011,11/12,La Liga,,H,Barcelona,4,Rayo Vallecano,0,1,0,90,9,3,1,N/A,6,0,0,1,0,N/A,N/A,No
+695,357,26/11/2011,11/12,La Liga,,A,Getafe,1,Barcelona,0,0,0,90,6.97,6,1,N/A,1,0,0,0,0,N/A,N/A,No
+696,356,23/11/2011,11/12,Champs League,Group,A,AC Milan,2,Barcelona,3,1,1,90,8.82,4,2,N/A,3,4,2,2,1,N/A,N/A,Yes
+697,355,19/11/2011,11/12,La Liga,,H,Barcelona,4,Real Zaragoza,0,1,0,90,10,6,3,N/A,9,3,2,2,0,N/A,N/A,Yes
+698,354,15/11/2011,11/12,World Cup Qualifier,,A,Colombia,1,Argentina,2,1,0,90,,,,,,,,,,,,
+699,353,11/11/2011,11/12,World Cup Qualifier,,H,Argentina,1,Bolivia,1,0,0,90,,,,,,,,,,,,
+700,352,06/11/2011,11/12,La Liga,,A,Athletic Bilbao,2,Barcelona,2,1,0,90,9.09,4,2,N/A,8,4,1,1,0,N/A,N/A,Yes
+701,351,01/11/2011,11/12,Champs League,Group,A,Viktoria Plzen,0,Barcelona,4,3,0,90,10,8,7,N/A,2,4,2,4,0,N/A,N/A,Yes
+702,350,29/10/2011,11/12,La Liga,,H,Barcelona,5,Mallorca,0,3,1,90,10,8,4,N/A,9,2,0,1,0,N/A,N/A,Yes
+703,349,25/10/2011,11/12,La Liga,,A,Granada,0,Barcelona,1,0,0,90,7.22,4,1,N/A,4,4,0,0,0,N/A,N/A,No
+704,348,22/10/2011,11/12,La Liga,,H,Barcelona,0,Sevilla,0,0,0,90,7.96,8,2,N/A,7,3,0,4,1,N/A,N/A,No
+705,347,19/10/2011,11/12,Champs League,Group,H,Barcelona,2,Viktoria Plzen,0,0,2,90,9.02,7,2,N/A,7,4,1,1,0,N/A,N/A,Yes
+706,346,15/10/2011,11/12,La Liga,,H,Barcelona,3,Racing Santander,0,2,0,90,10,7,4,N/A,6,4,1,1,0,N/A,N/A,Yes
+707,345,12/10/2011,11/12,World Cup Qualifier,,A,Venezuela,1,Argentina,0,0,0,90,,,,,,,,,,,,
+708,344,07/10/2011,11/12,World Cup Qualifier,,H,Argentina,4,Chile,1,1,1,90,,,,,,,,,,,,
+709,343,02/10/2011,11/12,La Liga,,A,Sporting Gijon,0,Barcelona,1,0,0,90,7.84,5,2,N/A,6,1,0,1,1,N/A,N/A,No
+710,342,28/09/2011,11/12,Champs League,Group,A,BATE Borisov,0,Barcelona,5,2,0,90,10,11,3,N/A,5,4,1,1,0,N/A,N/A,Yes
+711,341,24/09/2011,11/12,La Liga,,H,Barcelona,5,Atletico Madrid,0,3,0,90,10,7,5,N/A,9,1,1,1,0,N/A,N/A,Yes
+712,340,21/09/2011,11/12,La Liga,,A,Valencia,2,Barcelona,2,0,2,90,8.21,2,1,N/A,2,4,3,4,0,N/A,N/A,Yes
+713,339,17/09/2011,11/12,La Liga,,H,Barcelona,8,Osasuna,0,3,2,90,10,8,6,N/A,5,4,1,4,0,N/A,N/A,Yes
+714,338,13/09/2011,11/12,Champs League,Group,H,Barcelona,2,AC Milan,2,0,1,90,8.38,8,3,N/A,3,3,2,0,0,N/A,N/A,Yes
+715,337,10/09/2011,11/12,La Liga,,A,Real Sociedad,2,Barcelona,2,0,0,28,6.01,4,2,N/A,0,0,0,0,0,N/A,N/A,No
+716,336,06/09/2011,11/12,International Friendly,,N,Argentina,3,Nigeria,1,0,1,90,,,,,,,,,,,,
+717,335,02/09/2011,11/12,International Friendly,,N,Argentina,1,Venezuela,0,0,1,90,,,,,,,,,,,,
+718,334,29/08/2011,11/12,La Liga,,H,Barcelona,5,Villarreal,0,2,1,90,10,5,5,N/A,5,5,1,2,0,N/A,N/A,Yes
+719,333,26/08/2011,11/12,UEFA Super Cup,Final,N,Barcelona,2,FC Porto,0,1,1,90,,,,,,,,,,,,
+720,332,17/08/2011,11/12,Supercopa de Espana,Final,H,Barcelona,3,Real Madrid,2,2,1,90,,,,,,,,,,,,
+721,331,14/08/2011,11/12,Supercopa de Espana,Final,A,Real Madrid,2,Barcelona,2,1,1,90,,,,,,,,,,,,
+722,330,16/07/2011,10/11,Copa America,QF,H,Argentina,1,Uruguay,1,0,1,120,,,,,,,,,,,,
+723,329,11/07/2011,10/11,Copa America,Group,H,Argentina,3,Costa Rica,0,0,2,90,,,,,,,,,,,,
+724,328,07/07/2011,10/11,Copa America,Group,H,Argentina,0,Colombia,0,0,0,90,,,,,,,,,,,,
+725,327,02/07/2011,10/11,Copa America,Group,H,Argentina,1,Bolivia,1,0,0,90,,,,,,,,,,,,
+726,326,20/06/2011,10/11,International Friendly,,H,Argentina,4,Albania,0,1,2,90,,,,,,,,,,,,
+727,325,28/05/2011,10/11,Champs League,Final,N,Barcelona,3,Manchester United,1,1,0,90,10,5,3,N/A,10,4,0,1,0,N/A,N/A,Yes
+728,324,11/05/2011,10/11,La Liga,,A,Levante,1,Barcelona,1,0,0,90,8.52,5,0,N/A,11,1,0,0,0,N/A,N/A,Yes
+729,323,08/05/2011,10/11,La Liga,,H,Barcelona,2,Espanyol,0,0,0,90,7.08,2,0,N/A,4,1,0,0,0,N/A,N/A,No
+730,322,03/05/2011,10/11,Champs League,SF,H,Barcelona,1,Real Madrid,1,0,0,90,8.52,6,3,N/A,7,1,0,0,1,N/A,N/A,Yes
+731,321,30/04/2011,10/11,La Liga,,A,Real Sociedad,2,Barcelona,1,0,1,90,7.97,3,1,N/A,5,3,1,1,0,N/A,N/A,Yes
+732,320,27/04/2011,10/11,Champs League,SF,A,Real Madrid,0,Barcelona,2,2,0,90,10,4,2,N/A,9,3,0,2,0,N/A,N/A,Yes
+733,319,23/04/2011,10/11,La Liga,,H,Barcelona,2,Osasuna,0,1,0,32,7.16,1,1,N/A,1,1,0,0,0,N/A,N/A,No
+734,318,20/04/2011,10/11,Copa del Rey,Final,N,Barcelona,0,Real Madrid,1,0,0,120,,,,,,,,,,,,
+735,317,16/04/2011,10/11,La Liga,,A,Real Madrid,1,Barcelona,1,1,0,90,7.72,4,3,N/A,6,1,0,0,0,N/A,N/A,No
+736,316,12/04/2011,10/11,Champs League,QF,A,Shakhtar Donetsk,0,Barcelona,1,1,0,90,9.16,5,4,N/A,6,2,0,1,0,N/A,N/A,Yes
+737,315,09/04/2011,10/11,La Liga,,H,Barcelona,3,Almeria,1,2,1,90,10,5,3,N/A,12,5,1,1,0,N/A,N/A,Yes
+738,314,06/04/2011,10/11,Champs League,QF,H,Barcelona,5,Shakhtar Donetsk,1,0,1,90,9.65,5,3,N/A,7,1,0,0,0,N/A,N/A,Yes
+739,313,02/04/2011,10/11,La Liga,,A,Villarreal,0,Barcelona,1,0,0,37,6.92,1,1,N/A,3,1,0,0,0,N/A,N/A,No
+740,312,26/03/2011,10/11,International Friendly,,A,USA,1,Argentina,1,0,0,90,,,,,,,,,,,,
+741,311,19/03/2011,10/11,La Liga,,H,Barcelona,2,Getafe,1,0,1,90,7.29,4,2,N/A,5,2,0,0,0,N/A,N/A,No
+742,310,13/03/2011,10/11,La Liga,,A,Sevilla,1,Barcelona,1,0,0,90,7.76,6,2,N/A,8,1,0,1,0,N/A,N/A,No
+743,309,08/03/2011,10/11,Champs League,R16,H,Barcelona,3,Arsenal,1,2,0,90,9.84,6,4,N/A,10,1,1,2,0,N/A,N/A,Yes
+744,308,05/03/2011,10/11,La Liga,,H,Barcelona,1,Real Zaragoza,0,0,0,90,8.65,4,1,N/A,13,1,0,1,0,N/A,N/A,No
+745,307,02/03/2011,10/11,La Liga,,A,Valencia,0,Barcelona,1,1,0,90,8.35,8,5,N/A,7,0,0,0,0,N/A,N/A,No
+746,306,26/02/2011,10/11,La Liga,,A,Mallorca,0,Barcelona,3,1,0,90,8.4,2,1,N/A,4,2,0,0,0,N/A,N/A,No
+747,305,20/02/2011,10/11,La Liga,,H,Barcelona,2,Athletic Bilbao,1,1,0,90,9.49,7,3,N/A,11,1,0,0,0,N/A,N/A,Yes
+748,304,16/02/2011,10/11,Champs League,R16,A,Arsenal,2,Barcelona,1,0,1,90,7.76,5,1,N/A,6,2,1,2,0,N/A,N/A,No
+749,303,12/02/2011,10/11,La Liga,,A,Sporting Gijon,1,Barcelona,1,0,1,90,8.04,4,1,N/A,7,3,0,2,1,N/A,N/A,Yes
+750,302,09/02/2011,10/11,International Friendly,,N,Argentina,2,Portugal,1,1,1,90,,,,,,,,,,,,
+751,301,05/02/2011,10/11,La Liga,,H,Barcelona,3,Atletico Madrid,0,3,0,90,10,6,5,N/A,6,3,1,2,0,N/A,N/A,Yes
+752,300,29/01/2011,10/11,La Liga,,A,Hercules,0,Barcelona,3,2,0,90,10,10,6,N/A,5,3,0,0,1,N/A,N/A,Yes
+753,299,26/01/2011,10/11,Copa del Rey,SF,H,Barcelona,5,Almeria,0,2,1,90,,,,,,,,,,,,
+754,298,22/01/2011,10/11,La Liga,,H,Barcelona,3,Racing Santander,0,1,1,90,9.2,4,4,N/A,4,3,2,2,0,N/A,N/A,Yes
+755,297,19/01/2011,10/11,Copa del Rey,QF,A,Real Betis,3,Barcelona,1,1,0,90,,,,,,,,,,,,
+756,296,16/01/2011,10/11,La Liga,,H,Barcelona,4,Malaga,1,0,1,90,8.61,3,2,N/A,5,3,1,1,0,N/A,N/A,No
+757,295,12/01/2011,10/11,Copa del Rey,QF,H,Barcelona,5,Real Betis,0,3,0,86,,,,,,,,,,,,
+758,294,08/01/2011,10/11,La Liga,,A,Deportivo La Coruna,0,Barcelona,4,1,2,90,9.84,2,2,N/A,3,2,2,2,0,N/A,N/A,Yes
+759,293,05/01/2011,10/11,Copa del Rey,R16,A,Athletic Bilbao,1,Barcelona,1,0,1,90,,,,,,,,,,,,
+760,292,21/12/2010,10/11,Copa del Rey,R16,H,Barcelona,0,Athletic Bilbao,0,0,0,37,,,,,,,,,,,,
+761,291,18/12/2010,10/11,La Liga,,A,Espanyol,1,Barcelona,5,0,2,90,9.76,3,2,N/A,6,2,2,2,0,N/A,N/A,Yes
+762,290,12/12/2010,10/11,La Liga,,H,Barcelona,5,Real Sociedad,0,2,0,90,9.45,9,3,N/A,3,1,0,0,1,N/A,N/A,Yes
+763,289,07/12/2010,10/11,Champs League,Group,H,Barcelona,2,Rubin Kazan,0,0,0,27,7.25,3,0,N/A,7,0,0,0,0,N/A,N/A,No
+764,288,04/12/2010,10/11,La Liga,,A,Osasuna,0,Barcelona,3,2,1,90,10,5,4,N/A,5,2,1,2,0,N/A,N/A,Yes
+765,287,29/11/2010,10/11,La Liga,,H,Barcelona,5,Real Madrid,0,0,2,90,10,3,0,N/A,9,2,2,2,0,N/A,N/A,Yes
+766,286,24/11/2010,10/11,Champs League,Group,A,Panathinaikos,0,Barcelona,3,1,0,90,9.24,3,1,N/A,9,2,0,0,0,N/A,N/A,Yes
+767,285,20/11/2010,10/11,La Liga,,A,Almeria,0,Barcelona,8,3,2,90,10,5,4,N/A,3,5,2,2,0,N/A,N/A,Yes
+768,284,17/11/2010,10/11,International Friendly,,N,Argentina,1,Brazil,0,1,0,90,,,,,,,,,,,,
+769,283,13/11/2010,10/11,La Liga,,H,Barcelona,3,Villarreal,1,2,0,90,9.04,6,4,N/A,3,1,0,0,0,N/A,N/A,Yes
+770,282,10/11/2010,10/11,Copa del Rey,R32,H,Barcelona,5,AD Ceuta,1,1,0,29,,,,,,,,,,,,
+771,281,07/11/2010,10/11,La Liga,,A,Getafe,1,Barcelona,3,1,1,90,9.25,5,3,N/A,4,3,2,2,0,N/A,N/A,Yes
+772,280,02/11/2010,10/11,Champs League,Group,A,FC Copenhagen,1,Barcelona,1,1,0,90,7.74,6,3,N/A,1,2,0,0,0,N/A,N/A,No
+773,279,30/10/2010,10/11,La Liga,,H,Barcelona,5,Sevilla,0,2,1,90,10,5,2,N/A,4,3,1,1,0,N/A,N/A,Yes
+774,278,23/10/2010,10/11,La Liga,,A,Real Zaragoza,0,Barcelona,2,2,0,90,9.81,6,5,N/A,5,2,1,2,0,N/A,N/A,Yes
+775,277,20/10/2010,10/11,Champs League,Group,H,Barcelona,2,FC Copenhagen,0,2,0,90,9.19,5,3,N/A,1,2,0,2,0,N/A,N/A,Yes
+776,276,16/10/2010,10/11,La Liga,,H,Barcelona,2,Valencia,1,0,0,90,6.81,2,1,N/A,1,0,0,2,0,N/A,N/A,No
+777,275,08/10/2010,10/11,International Friendly,,A,Japan,1,Argentina,0,0,0,90,,,,,,,,,,,,
+778,274,03/10/2010,10/11,La Liga,,H,Barcelona,1,Mallorca,1,1,0,90,9.2,9,2,N/A,8,4,0,3,0,N/A,N/A,Yes
+779,273,29/09/2010,10/11,Champs League,Group,A,Rubin Kazan,1,Barcelona,1,0,0,29,7.01,4,1,N/A,1,3,1,1,0,N/A,N/A,No
+780,272,19/09/2010,10/11,La Liga,,A,Atletico Madrid,1,Barcelona,2,1,1,90,9.27,4,2,N/A,6,3,1,2,0,N/A,N/A,Yes
+781,271,14/09/2010,10/11,Champs League,Group,H,Barcelona,5,Panathinaikos,1,2,1,90,10,12,7,N/A,5,1,1,1,0,N/A,N/A,Yes
+782,270,11/09/2010,10/11,La Liga,,H,Barcelona,0,Hercules,2,0,0,90,7.37,3,3,N/A,6,2,0,1,0,N/A,N/A,No
+783,269,07/09/2010,10/11,International Friendly,,H,Argentina,4,Spain,1,1,0,88,,,,,,,,,,,,
+784,268,29/08/2010,10/11,La Liga,,A,Racing Santander,0,Barcelona,3,1,0,90,8.03,4,2,N/A,3,0,0,0,1,N/A,N/A,No
+785,267,21/08/2010,10/11,Supercopa de Espana,Final,H,Barcelona,4,Sevilla,0,3,0,90,,,,,,,,,,,,
+786,266,14/08/2010,10/11,Supercopa de Espana,Final,A,Sevilla,3,Barcelona,1,0,0,37,,,,,,,,,,,,
+787,265,11/08/2010,10/11,International Friendly,,A,Republic of Ireland,0,Argentina,1,0,0,58,,,,,,,,,,,,
+788,264,03/07/2010,09/10,World Cup,QF,N,Argentina,0,Germany,4,0,0,90,7.6,7,2,2,6,2,N/A,N/A,0,N/A,N/A,No
+789,263,27/06/2010,09/10,World Cup,R16,N,Argentina,3,Mexico,1,0,1,90,7.6,3,2,0,11,2,N/A,N/A,0,N/A,N/A,No
+790,262,22/06/2010,09/10,World Cup,Group,N,Argentina,2,Greece,0,0,0,90,7.8,5,3,1,5,3,N/A,N/A,0,N/A,N/A,No
+791,261,17/06/2010,09/10,World Cup,Group,N,Argentina,4,South Korea,1,0,0,90,7.7,6,1,0,3,3,N/A,N/A,0,N/A,N/A,No
+792,260,12/06/2010,09/10,World Cup,Group,N,Argentina,1,Nigeria,0,0,0,90,9.1,8,4,0,6,6,N/A,N/A,2,N/A,N/A,Yes
+793,259,16/05/2010,09/10,La Liga,,H,Barcelona,4,Real Valladolid,0,2,1,90,10,5,4,N/A,3,1,N/A,0,0,N/A,N/A,Yes
+794,258,08/05/2010,09/10,La Liga,,A,Sevilla,2,Barcelona,3,1,0,90,8.42,6,2,N/A,2,3,N/A,2,1,N/A,N/A,Yes
+795,257,04/05/2010,09/10,La Liga,,H,Barcelona,4,Tenerife,1,2,0,90,10,4,2,N/A,4,3,N/A,2,0,N/A,N/A,Yes
+796,256,01/05/2010,09/10,La Liga,,A,Villarreal,1,Barcelona,4,2,0,90,9.43,6,3,N/A,1,1,N/A,0,2,N/A,N/A,No
+797,255,28/04/2010,09/10,Champs League,SF,H,Barcelona,1,Inter Milan,0,0,0,90,8.51,3,2,N/A,8,4,N/A,1,0,N/A,N/A,No
+798,254,24/04/2010,09/10,La Liga,,H,Barcelona,3,Xerez,1,0,0,38,6.83,3,2,N/A,1,1,N/A,0,0,N/A,N/A,No
+799,253,20/04/2010,09/10,Champs League,SF,A,Inter Milan,3,Barcelona,1,0,0,90,6.94,2,2,N/A,4,1,N/A,0,0,N/A,N/A,No
+800,252,17/04/2010,09/10,La Liga,,A,Espanyol,0,Barcelona,0,0,0,90,7.8,1,0,N/A,11,1,N/A,0,0,N/A,N/A,No
+801,251,14/04/2010,09/10,La Liga,,H,Barcelona,3,Deportivo La Coruna,0,0,0,90,8.57,6,2,N/A,6,2,N/A,2,1,N/A,N/A,No
+802,250,10/04/2010,09/10,La Liga,,A,Real Madrid,0,Barcelona,2,1,0,90,8.3,3,3,N/A,1,1,N/A,0,0,N/A,N/A,No
+803,249,06/04/2010,09/10,Champs League,QF,H,Barcelona,4,Arsenal,1,4,0,90,10,8,6,N/A,5,2,N/A,2,0,N/A,N/A,Yes
+804,248,03/04/2010,09/10,La Liga,,H,Barcelona,4,Athletic Bilbao,1,1,0,90,8.87,6,2,N/A,5,1,N/A,0,0,N/A,N/A,No
+805,247,31/03/2010,09/10,Champs League,QF,A,Arsenal,2,Barcelona,2,0,0,87,7.49,7,3,N/A,4,0,N/A,0,0,N/A,N/A,No
+806,246,27/03/2010,09/10,La Liga,,A,Mallorca,0,Barcelona,1,0,0,39,6.64,2,1,N/A,0,0,N/A,0,0,N/A,N/A,No
+807,245,24/03/2010,09/10,La Liga,,H,Barcelona,2,Osasuna,0,0,0,90,7.99,5,0,N/A,6,2,N/A,1,1,N/A,N/A,No
+808,244,21/03/2010,09/10,La Liga,,A,Real Zaragoza,2,Barcelona,4,3,0,90,10,8,4,N/A,12,2,N/A,1,1,N/A,N/A,Yes
+809,243,17/03/2010,09/10,Champs League,R16,H,Barcelona,4,VfB Stuttgart,0,2,0,90,10,6,4,N/A,5,3,N/A,2,1,N/A,N/A,Yes
+810,242,14/03/2010,09/10,La Liga,,H,Barcelona,3,Valencia,0,3,0,88,10,8,5,N/A,9,1,N/A,1,0,N/A,N/A,Yes
+811,241,06/03/2010,09/10,La Liga,,A,Almeria,2,Barcelona,2,2,0,90,10,10,5,N/A,11,5,N/A,3,0,N/A,N/A,Yes
+812,240,03/03/2010,09/10,International Friendly,,A,Germany,0,Argentina,1,0,0,90,,,,,,,,,,,,
+813,239,27/02/2010,09/10,La Liga,,H,Barcelona,2,Malaga,1,1,0,90,9.39,7,3,N/A,6,4,N/A,0,0,N/A,N/A,Yes
+814,238,23/02/2010,09/10,Champs League,R16,A,VfB Stuttgart,1,Barcelona,1,0,0,90,N/A,3,N/A,N/A,4,1,N/A,N/A,N/A,N/A,N/A,No
+815,237,20/02/2010,09/10,La Liga,,H,Barcelona,4,Racing Santander,0,0,1,90,8.38,3,2,N/A,1,4,N/A,1,0,N/A,N/A,No
+816,236,14/02/2010,09/10,La Liga,,A,Atletico Madrid,2,Barcelona,1,0,0,90,7.53,6,3,N/A,6,1,N/A,0,0,N/A,N/A,No
+817,235,06/02/2010,09/10,La Liga,,H,Barcelona,2,Getafe,1,1,1,90,9.86,8,5,N/A,1,3,N/A,2,0,N/A,N/A,Yes
+818,234,30/01/2010,09/10,La Liga,,A,Sporting Gijon,0,Barcelona,1,0,0,90,7.75,4,0,N/A,8,2,N/A,1,0,N/A,N/A,No
+819,233,23/01/2010,09/10,La Liga,,A,Real Valladolid,0,Barcelona,3,1,1,90,8.67,3,2,N/A,2,2,N/A,1,0,N/A,N/A,No
+820,232,16/01/2010,09/10,La Liga,,H,Barcelona,4,Sevilla,0,2,0,90,10,8,5,N/A,3,5,N/A,0,0,N/A,N/A,Yes
+821,231,13/01/2010,09/10,Copa del Rey,R16,A,Sevilla,0,Barcelona,1,0,0,90,,,,,,,,,,,,
+822,230,10/01/2010,09/10,La Liga,,A,Tenerife,0,Barcelona,5,3,1,90,10,5,3,N/A,1,3,N/A,1,0,N/A,N/A,Yes
+823,229,05/01/2010,09/10,Copa del Rey,R16,H,Barcelona,1,Sevilla,2,0,0,90,,,,,,,,,,,,
+824,228,19/12/2009,09/10,Club World Cup,Final,N,Barcelona,2,Estudiantes,1,1,0,120,,,,,,,,,,,,
+825,227,16/12/2009,09/10,Club World Cup,SF,N,Barcelona,3,Atlante F.C.,1,1,0,37,,,,,,,,,,,,
+826,226,09/12/2009,09/10,Champs League,Group,A,Dynamo Kyiv,1,Barcelona,2,1,0,90,9.25,6,3,N/A,6,2,N/A,0,1,N/A,N/A,Yes
+827,225,05/12/2009,09/10,La Liga,,A,Deportivo La Coruna,1,Barcelona,3,2,0,90,10,9,5,N/A,4,1,N/A,2,1,N/A,N/A,Yes
+828,224,02/12/2009,09/10,La Liga,,A,Xerez,0,Barcelona,2,0,1,35,7.64,1,0,N/A,2,1,N/A,2,0,N/A,N/A,No
+829,223,29/11/2009,09/10,La Liga,,H,Barcelona,1,Real Madrid,0,0,0,90,8.53,1,1,N/A,9,1,N/A,0,0,N/A,N/A,Yes
+830,222,21/11/2009,09/10,La Liga,,A,Athletic Bilbao,1,Barcelona,1,0,0,76,7.31,3,2,N/A,3,2,N/A,0,0,N/A,N/A,No
+831,221,14/11/2009,09/10,International Friendly,,A,Spain,2,Argentina,1,1,0,84,,,,,,,,,,,,
+832,220,10/11/2009,09/10,Copa del Rey,R32,H,Barcelona,5,Cultural Leonesa,0,1,0,31,,,,,,,,,,,,
+833,219,07/11/2009,09/10,La Liga,,H,Barcelona,4,Mallorca,2,1,0,39,7.28,2,1,N/A,2,1,N/A,0,0,N/A,N/A,No
+834,218,04/11/2009,09/10,Champs League,Group,A,Rubin Kazan,0,Barcelona,0,0,0,90,7.5,3,0,N/A,6,2,N/A,1,0,N/A,N/A,No
+835,217,31/10/2009,09/10,La Liga,,A,Osasuna,1,Barcelona,1,0,0,90,8.1,7,4,N/A,4,0,N/A,1,0,N/A,N/A,No
+836,216,25/10/2009,09/10,La Liga,,H,Barcelona,6,Real Zaragoza,1,1,1,90,10,7,5,N/A,4,1,N/A,0,0,N/A,N/A,No
+837,215,20/10/2009,09/10,Champs League,Group,H,Barcelona,1,Rubin Kazan,2,0,0,90,7.98,4,2,N/A,7,3,N/A,2,0,N/A,N/A,No
+838,214,17/10/2009,09/10,La Liga,,A,Valencia,0,Barcelona,0,0,0,90,6.59,2,1,N/A,2,1,N/A,0,0,N/A,N/A,No
+839,213,15/10/2009,09/10,World Cup Qualifier,,A,Uruguay,0,Argentina,1,0,0,85,,,,,,,,,,,,
+840,212,11/10/2009,09/10,World Cup Qualifier,,H,Argentina,2,Peru,1,0,0,90,,,,,,,,,,,,
+841,211,03/10/2009,09/10,La Liga,,H,Barcelona,1,Almeria,0,0,0,90,7.62,3,1,N/A,5,3,N/A,1,0,N/A,N/A,No
+842,210,29/09/2009,09/10,Champs League,Group,H,Barcelona,2,Dynamo Kyiv,0,1,0,90,9.03,4,2,N/A,8,1,N/A,1,0,N/A,N/A,Yes
+843,209,26/09/2009,09/10,La Liga,,A,Malaga,0,Barcelona,2,0,1,90,8.16,3,2,N/A,3,2,N/A,1,0,N/A,N/A,No
+844,208,22/09/2009,09/10,La Liga,,A,Racing Santander,1,Barcelona,4,2,1,64,10,4,2,N/A,2,3,N/A,1,0,N/A,N/A,Yes
+845,207,19/09/2009,09/10,La Liga,,H,Barcelona,5,Atletico Madrid,2,2,1,90,10,2,2,N/A,4,1,N/A,0,0,N/A,N/A,Yes
+846,206,16/09/2009,09/10,Champs League,Group,A,Inter Milan,0,Barcelona,0,0,0,90,7.69,6,3,N/A,4,1,N/A,0,0,N/A,N/A,No
+847,205,12/09/2009,09/10,La Liga,,A,Getafe,0,Barcelona,2,1,0,32,7.86,2,2,N/A,1,0,N/A,0,0,N/A,N/A,No
+848,204,10/09/2009,09/10,World Cup Qualifier,,A,Paraguay,1,Argentina,0,0,0,90,,,,,,,,,,,,
+849,203,06/09/2009,09/10,World Cup Qualifier,,H,Argentina,1,Brazil,3,0,0,90,,,,,,,,,,,,
+850,202,28/08/2009,09/10,UEFA Super Cup,Final,N,Barcelona,1,Shakhtar Donetsk,0,0,1,120,,,,,,,,,,,,
+851,201,23/08/2009,09/10,Supercopa de Espana,Final,H,Barcelona,3,Athletic Bilbao,0,2,0,90,,,,,,,,,,,,
+852,200,10/06/2009,08/09,World Cup Qualifier,,A,Ecuador,2,Argentina,0,0,0,90,,,,,,,,,,,,
+853,199,06/06/2009,08/09,World Cup Qualifier,,H,Argentina,1,Colombia,0,0,0,90,,,,,,,,,,,,
+854,198,27/05/2009,08/09,Champs League,Final,N,Barcelona,2,Manchester United,0,1,0,90,,,,,,,,,,,,
+855,197,13/05/2009,08/09,Copa del Rey,Final,N,Barcelona,4,Athletic Bilbao,1,1,1,90,,,,,,,,,,,,
+856,196,10/05/2009,08/09,La Liga,,H,Barcelona,3,Villarreal,3,0,0,90,,,,,,,,,,,,
+857,195,06/05/2009,08/09,Champs League,SF,A,Chelsea,1,Barcelona,1,0,1,90,,,,,,,,,,,,
+858,194,02/05/2009,08/09,La Liga,,A,Real Madrid,2,Barcelona,6,2,1,90,,,,,,,,,,,,
+859,193,28/04/2009,08/09,Champs League,SF,H,Barcelona,0,Chelsea,0,0,0,90,,,,,,,,,,,,
+860,192,25/04/2009,08/09,La Liga,,A,Valencia,2,Barcelona,2,1,0,90,,,,,,,,,,,,
+861,191,18/04/2009,08/09,La Liga,,A,Getafe,0,Barcelona,1,1,0,90,,,,,,,,,,,,
+862,190,14/04/2009,08/09,Champs League,QF,A,Bayern Munich,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+863,189,11/04/2009,08/09,La Liga,,H,Barcelona,2,Huelva,0,0,0,90,,,,,,,,,,,,
+864,188,08/04/2009,08/09,Champs League,QF,H,Barcelona,4,Bayern Munich,0,2,1,90,,,,,,,,,,,,
+865,187,04/04/2009,08/09,La Liga,,A,Real Valladolid,0,Barcelona,1,0,0,31,,,,,,,,,,,,
+866,186,01/04/2009,08/09,World Cup Qualifier,,A,Bolivia,6,Argentina,1,0,0,90,,,,,,,,,,,,
+867,185,28/03/2009,08/09,World Cup Qualifier,,H,Argentina,4,Venezuela,0,1,1,90,,,,,,,,,,,,
+868,184,22/03/2009,08/09,La Liga,,H,Barcelona,6,Malaga,0,1,0,90,,,,,,,,,,,,
+869,183,15/03/2009,08/09,La Liga,,A,Almeria,0,Barcelona,2,0,0,90,,,,,,,,,,,,
+870,182,11/03/2009,08/09,Champs League,R16,H,Barcelona,5,Lyon,2,1,0,90,,,,,,,,,,,,
+871,181,07/03/2009,08/09,La Liga,,H,Barcelona,2,Athletic Bilbao,0,1,0,90,,,,,,,,,,,,
+872,180,04/03/2009,08/09,Copa del Rey,SF,A,Mallorca,1,Barcelona,1,1,0,33,,,,,,,,,,,,
+873,179,01/03/2009,08/09,La Liga,,A,Atletico Madrid,4,Barcelona,3,1,0,90,,,,,,,,,,,,
+874,178,24/02/2009,08/09,Champs League,R16,A,Lyon,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+875,177,21/02/2009,08/09,La Liga,,H,Barcelona,1,Espanyol,2,0,0,90,,,,,,,,,,,,
+876,176,14/02/2009,08/09,La Liga,,A,Real Betis,2,Barcelona,2,0,0,33,,,,,,,,,,,,
+877,175,11/02/2009,08/09,International Friendly,,A,France,0,Argentina,2,1,0,90,,,,,,,,,,,,
+878,174,08/02/2009,08/09,La Liga,,H,Barcelona,3,Sporting Gijon,1,0,2,90,,,,,,,,,,,,
+879,173,05/02/2009,08/09,Copa del Rey,SF,H,Barcelona,2,Mallorca,0,0,0,36,,,,,,,,,,,,
+880,172,01/02/2009,08/09,La Liga,,A,Racing Santander,1,Barcelona,2,2,0,31,,,,,,,,,,,,
+881,171,29/01/2009,08/09,Copa del Rey,QF,H,Barcelona,3,Espanyol,2,0,0,90,,,,,,,,,,,,
+882,170,24/01/2009,08/09,La Liga,,H,Barcelona,4,Numancia,1,2,1,90,,,,,,,,,,,,
+883,169,21/01/2009,08/09,Copa del Rey,QF,A,Espanyol,0,Barcelona,0,0,0,17,,,,,,,,,,,,
+884,168,17/01/2009,08/09,La Liga,,H,Barcelona,5,Deportivo La Coruna,0,1,0,90,,,,,,,,,,,,
+885,167,14/01/2009,08/09,Copa del Rey,R16,H,Barcelona,2,Atletico Madrid,1,0,0,20,,,,,,,,,,,,
+886,166,11/01/2009,08/09,La Liga,,A,Osasuna,2,Barcelona,3,1,1,90,,,,,,,,,,,,
+887,165,06/01/2009,08/09,Copa del Rey,R16,A,Atletico Madrid,1,Barcelona,3,3,0,81,,,,,,,,,,,,
+888,164,21/12/2008,08/09,La Liga,,A,Villarreal,1,Barcelona,2,0,0,90,,,,,,,,,,,,
+889,163,13/12/2008,08/09,La Liga,,H,Barcelona,2,Real Madrid,0,1,0,90,,,,,,,,,,,,
+890,162,06/12/2008,08/09,La Liga,,H,Barcelona,4,Valencia,0,0,0,82,,,,,,,,,,,,
+891,161,29/11/2008,08/09,La Liga,,A,Sevilla,0,Barcelona,3,2,0,90,,,,,,,,,,,,
+892,160,26/11/2008,08/09,Champs League,Group,A,Sporting CP,2,Barcelona,5,1,1,57,,,,,,,,,,,,
+893,159,16/11/2008,08/09,La Liga,,A,Huelva,0,Barcelona,2,1,0,90,,,,,,,,,,,,
+894,158,12/11/2008,08/09,Copa del Rey,R32,H,Barcelona,1,Benidorm,0,1,0,90,,,,,,,,,,,,
+895,157,08/11/2008,08/09,La Liga,,H,Barcelona,6,Real Valladolid,0,0,1,90,,,,,,,,,,,,
+896,156,04/11/2008,08/09,Champs League,Group,H,Barcelona,1,FC Basel,1,1,0,30,,,,,,,,,,,,
+897,155,01/11/2008,08/09,La Liga,,A,Malaga,1,Barcelona,4,1,0,79,,,,,,,,,,,,
+898,154,25/10/2008,08/09,La Liga,,H,Barcelona,5,Almeria,0,0,2,90,,,,,,,,,,,,
+899,153,22/10/2008,08/09,Champs League,Group,A,FC Basel,0,Barcelona,5,1,2,90,,,,,,,,,,,,
+900,152,16/10/2008,08/09,World Cup Qualifier,,A,Chile,1,Argentina,0,0,0,90,,,,,,,,,,,,
+901,151,11/10/2008,08/09,World Cup Qualifier,,H,Argentina,2,Uruguay,1,1,0,88,,,,,,,,,,,,
+902,150,04/10/2008,08/09,La Liga,,H,Barcelona,6,Atletico Madrid,1,1,0,70,,,,,,,,,,,,
+903,149,01/10/2008,08/09,Champs League,Group,A,Shakhtar Donetsk,1,Barcelona,2,2,0,30,,,,,,,,,,,,
+904,148,27/09/2008,08/09,La Liga,,A,Espanyol,1,Barcelona,2,1,0,90,,,,,,,,,,,,
+905,147,24/09/2008,08/09,La Liga,,H,Barcelona,3,Real Betis,2,0,2,90,,,,,,,,,,,,
+906,146,21/09/2008,08/09,La Liga,,A,Sporting Gijon,1,Barcelona,6,2,1,90,,,,,,,,,,,,
+907,145,16/09/2008,08/09,Champs League,Group,H,Barcelona,3,Sporting CP,1,0,0,90,,,,,,,,,,,,
+908,144,13/09/2008,08/09,La Liga,,H,Barcelona,1,Racing Santander,1,1,0,32,,,,,,,,,,,,
+909,143,11/09/2008,08/09,World Cup Qualifier,,A,Peru,1,Argentina,1,0,0,90,,,,,,,,,,,,
+910,142,06/09/2008,08/09,World Cup Qualifier,,H,Argentina,1,Paraguay,1,0,1,90,,,,,,,,,,,,
+911,141,31/08/2008,08/09,La Liga,,A,Numancia,1,Barcelona,0,0,0,90,,,,,,,,,,,,
+912,140,19/06/2008,07/08,World Cup Qualifier,,A,Brazil,0,Argentina,0,0,0,90,,,,,,,,,,,,
+913,139,15/06/2008,07/08,World Cup Qualifier,,H,Argentina,1,Ecuador,1,0,0,90,,,,,,,,,,,,
+914,138,08/06/2008,07/08,International Friendly,,A,USA,0,Argentina,0,0,0,45,,,,,,,,,,,,
+915,137,04/06/2008,07/08,International Friendly,,N,Argentina,4,Mexico,1,1,1,84,,,,,,,,,,,,
+916,136,17/05/2008,07/08,La Liga,,A,Real Murcia,3,Barcelona,5,0,2,90,,,,,,,,,,,,
+917,135,11/05/2008,07/08,La Liga,,H,Barcelona,2,Mallorca,3,0,0,62,,,,,,,,,,,,
+918,134,07/05/2008,07/08,La Liga,,A,Real Madrid,4,Barcelona,1,0,1,90,,,,,,,,,,,,
+919,133,04/05/2008,07/08,La Liga,,H,Barcelona,6,Valencia,0,1,1,90,,,,,,,,,,,,
+920,132,29/04/2008,07/08,Champs League,SF,A,Manchester United,1,Barcelona,0,0,0,90,,,,,,,,,,,,
+921,131,23/04/2008,07/08,Champs League,SF,H,Barcelona,0,Manchester United,0,0,0,61,,,,,,,,,,,,
+922,130,19/04/2008,07/08,La Liga,,H,Barcelona,0,Espanyol,0,0,0,45,,,,,,,,,,,,
+923,129,12/04/2008,07/08,La Liga,,A,Huelva,2,Barcelona,2,0,0,26,,,,,,,,,,,,
+924,128,04/03/2008,07/08,Champs League,R16,H,Barcelona,1,Celtic,0,0,0,38,,,,,,,,,,,,
+925,127,01/03/2008,07/08,La Liga,,A,Atletico Madrid,4,Barcelona,2,0,0,33,,,,,,,,,,,,
+926,126,27/02/2008,07/08,Copa del Rey,SF,H,Barcelona,1,Valencia,1,0,0,90,,,,,,,,,,,,
+927,125,24/02/2008,07/08,La Liga,,H,Barcelona,5,Levante,1,1,2,81,,,,,,,,,,,,
+928,124,20/02/2008,07/08,Champs League,R16,A,Celtic,2,Barcelona,3,2,0,90,,,,,,,,,,,,
+929,123,16/02/2008,07/08,La Liga,,A,Real Zaragoza,1,Barcelona,2,0,0,80,,,,,,,,,,,,
+930,122,09/02/2008,07/08,La Liga,,A,Sevilla,1,Barcelona,1,0,1,90,,,,,,,,,,,,
+931,121,03/02/2008,07/08,La Liga,,H,Barcelona,1,Osasuna,0,0,0,67,,,,,,,,,,,,
+932,120,31/01/2008,07/08,Copa del Rey,QF,H,Barcelona,1,Villarreal,0,0,0,90,,,,,,,,,,,,
+933,119,27/01/2008,07/08,La Liga,,A,Athletic Bilbao,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+934,118,24/01/2008,07/08,Copa del Rey,QF,A,Villarreal,0,Barcelona,0,0,0,45,,,,,,,,,,,,
+935,117,20/01/2008,07/08,La Liga,,H,Barcelona,1,Racing Santander,0,0,0,24,,,,,,,,,,,,
+936,116,15/12/2007,07/08,La Liga,,A,Valencia,0,Barcelona,3,0,2,45,,,,,,,,,,,,
+937,115,09/12/2007,07/08,La Liga,,H,Barcelona,2,Deportivo La Coruna,1,0,0,90,,,,,,,,,,,,
+938,114,01/12/2007,07/08,La Liga,,A,Espanyol,1,Barcelona,1,0,1,90,,,,,,,,,,,,
+939,113,27/11/2007,07/08,Champs League,Group,A,Lyon,2,Barcelona,2,1,0,90,,,,,,,,,,,,
+940,112,24/11/2007,07/08,La Liga,,H,Barcelona,3,Huelva,0,1,0,90,,,,,,,,,,,,
+941,111,21/11/2007,07/08,World Cup Qualifier,,A,Colombia,2,Argentina,1,1,0,90,,,,,,,,,,,,
+942,110,17/11/2007,07/08,World Cup Qualifier,,H,Argentina,3,Bolivia,0,0,1,90,,,,,,,,,,,,
+943,109,10/11/2007,07/08,La Liga,,A,Getafe,2,Barcelona,0,0,0,72,,,,,,,,,,,,
+944,108,07/11/2007,07/08,Champs League,Group,H,Barcelona,2,Glasgow Rangers,0,1,1,90,,,,,,,,,,,,
+945,107,04/11/2007,07/08,La Liga,,H,Barcelona,3,Real Betis,0,0,0,90,,,,,,,,,,,,
+946,106,01/11/2007,07/08,La Liga,,A,Real Valladolid,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+947,105,28/10/2007,07/08,La Liga,,H,Barcelona,2,Almeria,0,1,0,15,,,,,,,,,,,,
+948,104,23/10/2007,07/08,Champs League,Group,A,Glasgow Rangers,0,Barcelona,0,0,0,90,,,,,,,,,,,,
+949,103,20/10/2007,07/08,La Liga,,A,Villarreal,3,Barcelona,1,0,1,90,,,,,,,,,,,,
+950,102,17/10/2007,07/08,World Cup Qualifier,,A,Venezuela,0,Argentina,2,1,0,90,,,,,,,,,,,,
+951,101,13/10/2007,07/08,World Cup Qualifier,,H,Argentina,2,Chile,0,0,0,84,,,,,,,,,,,,
+952,100,07/10/2007,07/08,La Liga,,H,Barcelona,3,Atletico Madrid,0,1,0,90,,,,,,,,,,,,
+953,99,02/10/2007,07/08,Champs League,Group,A,VfB Stuttgart,0,Barcelona,2,1,0,90,,,,,,,,,,,,
+954,98,29/09/2007,07/08,La Liga,,A,Levante,1,Barcelona,4,1,1,52,,,,,,,,,,,,
+955,97,26/09/2007,07/08,La Liga,,H,Barcelona,4,Real Zaragoza,1,2,0,83,,,,,,,,,,,,
+956,96,22/09/2007,07/08,La Liga,,H,Barcelona,2,Sevilla,1,2,0,89,,,,,,,,,,,,
+957,95,19/09/2007,07/08,Champs League,Group,H,Barcelona,3,Lyon,0,1,0,88,,,,,,,,,,,,
+958,94,11/09/2007,07/08,International Friendly,,A,Australia,0,Argentina,1,0,1,89,,,,,,,,,,,,
+959,93,02/09/2007,07/08,La Liga,,H,Barcelona,3,Athletic Bilbao,1,0,0,90,,,,,,,,,,,,
+960,92,26/08/2007,07/08,La Liga,,A,Racing Santander,0,Barcelona,0,0,0,62,,,,,,,,,,,,
+961,91,22/08/2007,07/08,International Friendly,,A,Norway,2,Argentina,1,0,0,90,,,,,,,,,,,,
+962,90,15/07/2007,06/07,Copa America,Final,N,Argentina,0,Brazil,3,0,0,90,,,,,,,,,,,,
+963,89,12/07/2007,06/07,Copa America,SF,N,Argentina,3,Mexico,0,1,0,90,,,,,,,,,,,,
+964,88,09/07/2007,06/07,Copa America,QF,N,Argentina,4,Peru,0,1,0,90,,,,,,,,,,,,
+965,87,06/07/2007,06/07,Copa America,Group,N,Argentina,1,Paraguay,0,0,0,25,,,,,,,,,,,,
+966,86,03/07/2007,06/07,Copa America,Group,N,Argentina,4,Colombia,2,0,0,82,,,,,,,,,,,,
+967,85,29/06/2007,06/07,Copa America,Group,N,Argentina,4,USA,1,0,1,78,,,,,,,,,,,,
+968,84,17/06/2007,06/07,La Liga,,A,Gimnastic,1,Barcelona,5,2,1,82,,,,,,,,,,,,
+969,83,09/06/2007,06/07,La Liga,,H,Barcelona,2,Espanyol,2,2,0,90,,,,,,,,,,,,
+970,82,05/06/2007,06/07,International Friendly,,N,Argentina,4,Algeria,3,2,0,90,,,,,,,,,,,,
+971,81,02/06/2007,06/07,International Friendly,,A,Switzerland,1,Argentina,1,0,1,89,,,,,,,,,,,,
+972,80,26/05/2007,06/07,La Liga,,H,Barcelona,1,Getafe,0,0,0,89,,,,,,,,,,,,
+973,79,20/05/2007,06/07,La Liga,,A,Atletico Madrid,0,Barcelona,6,2,0,90,,,,,,,,,,,,
+974,78,13/05/2007,06/07,La Liga,,H,Barcelona,1,Real Betis,1,0,0,75,,,,,,,,,,,,
+975,77,05/05/2007,06/07,La Liga,,A,Real Sociedad,0,Barcelona,2,0,0,90,,,,,,,,,,,,
+976,76,29/04/2007,06/07,La Liga,,H,Barcelona,1,Levante,0,0,0,90,,,,,,,,,,,,
+977,75,22/04/2007,06/07,La Liga,,A,Villarreal,2,Barcelona,0,0,0,90,,,,,,,,,,,,
+978,74,18/04/2007,06/07,Copa del Rey,SF,H,Barcelona,5,Getafe,2,2,1,76,,,,,,,,,,,,
+979,73,15/04/2007,06/07,La Liga,,H,Barcelona,1,Mallorca,0,0,0,90,,,,,,,,,,,,
+980,72,07/04/2007,06/07,La Liga,,A,Real Zaragoza,1,Barcelona,0,0,0,90,,,,,,,,,,,,
+981,71,31/03/2007,06/07,La Liga,,H,Barcelona,2,Deportivo La Coruna,1,1,0,85,,,,,,,,,,,,
+982,70,17/03/2007,06/07,La Liga,,A,Huelva,0,Barcelona,4,1,0,90,,,,,,,,,,,,
+983,69,10/03/2007,06/07,La Liga,,H,Barcelona,3,Real Madrid,3,3,0,90,,,,,,,,,,,,
+984,68,06/03/2007,06/07,Champs League,R16,A,Liverpool,0,Barcelona,1,0,0,90,,,,,,,,,,,,
+985,67,03/03/2007,06/07,La Liga,,A,Sevilla,2,Barcelona,1,0,0,71,,,,,,,,,,,,
+986,66,28/02/2007,06/07,Copa del Rey,QF,A,Real Zaragoza,1,Barcelona,2,0,0,90,,,,,,,,,,,,
+987,65,25/02/2007,06/07,La Liga,,H,Barcelona,3,Athletic Bilbao,0,0,0,23,,,,,,,,,,,,
+988,64,21/02/2007,06/07,Champs League,R16,H,Barcelona,1,Liverpool,2,0,0,90,,,,,,,,,,,,
+989,63,18/02/2007,06/07,La Liga,,A,Valencia,2,Barcelona,1,0,0,34,,,,,,,,,,,,
+990,62,11/02/2007,06/07,La Liga,,H,Barcelona,2,Racing Santander,0,0,0,22,,,,,,,,,,,,
+991,61,12/11/2006,06/07,La Liga,,H,Barcelona,3,Real Zaragoza,1,0,0,23,,,,,,,,,,,,
+992,60,04/11/2006,06/07,La Liga,,A,Deportivo La Coruna,1,Barcelona,1,0,0,90,,,,,,,,,,,,
+993,59,31/10/2006,06/07,Champs League,Group,H,Barcelona,2,Chelsea,2,0,0,90,,,,,,,,,,,,
+994,58,22/10/2006,06/07,La Liga,,A,Real Madrid,2,Barcelona,0,0,0,90,,,,,,,,,,,,
+995,57,18/10/2006,06/07,Champs League,Group,A,Chelsea,1,Barcelona,0,0,0,90,,,,,,,,,,,,
+996,56,15/10/2006,06/07,La Liga,,H,Barcelona,3,Sevilla,1,1,0,90,,,,,,,,,,,,
+997,55,11/10/2006,06/07,International Friendly,,A,Spain,2,Argentina,1,0,0,61,,,,,,,,,,,,
+998,54,30/09/2006,06/07,La Liga,,A,Athletic Bilbao,1,Barcelona,3,0,0,90,,,,,,,,,,,,
+999,53,27/09/2006,06/07,Champs League,Group,A,Werder Bremen,1,Barcelona,1,1,0,25,,,,,,,,,,,,
+1000,52,24/09/2006,06/07,La Liga,,H,Barcelona,1,Valencia,1,0,0,85,,,,,,,,,,,,
+1001,51,17/09/2006,06/07,La Liga,,A,Racing Santander,0,Barcelona,3,0,0,65,,,,,,,,,,,,
+1002,50,09/09/2006,06/07,La Liga,,H,Barcelona,3,Osasuna,0,1,0,90,,,,,,,,,,,,
+1003,49,03/09/2006,06/07,International Friendly,,N,Argentina,0,Brazil,3,0,0,90,,,,,,,,,,,,
+1004,48,28/08/2006,06/07,La Liga,,A,Celta Vigo,2,Barcelona,3,1,1,90,,,,,,,,,,,,
+1005,47,25/08/2006,06/07,UEFA Super Cup,Final,N,Barcelona,0,Sevilla,3,0,0,90,,,,,,,,,,,,
+1006,46,20/08/2006,06/07,Supercopa de Espana,Final,H,Barcelona,3,Espanyol,0,0,0,90,,,,,,,,,,,,
+1007,45,17/08/2006,06/07,Supercopa de Espana,Final,A,Espanyol,0,Barcelona,1,0,0,30,,,,,,,,,,,,
+1008,44,24/06/2006,05/06,World Cup,R16,N,Argentina,2,Mexico,1,0,0,36,6.9,0,0,0,5,0,N/A,N/A,1,N/A,N/A,No
+1009,43,21/06/2006,05/06,World Cup,Group,N,Argentina,0,Netherlands,0,0,0,69,6.4,1,1,0,3,3,N/A,N/A,0,N/A,N/A,No
+1010,42,16/06/2006,05/06,World Cup,Group,N,Argentina,6,Serbia,0,1,1,16,8.8,1,1,0,2,2,N/A,N/A,0,N/A,N/A,Yes
+1011,41,30/05/2006,05/06,International Friendly,,N,Argentina,2,Angola,0,0,0,27,,,,,,,,,,,,
+1012,40,07/03/2006,05/06,Champs League,R16,H,Barcelona,1,Chelsea,1,0,0,25,,,,,,,,,,,,
+1013,39,01/03/2006,05/06,International Friendly,,N,Argentina,2,Croatia,3,1,1,90,,,,,,,,,,,,
+1014,38,25/02/2006,05/06,La Liga,,A,Real Zaragoza,0,Barcelona,2,0,0,70,,,,,,,,,,,,
+1015,37,22/02/2006,05/06,Champs League,R16,A,Chelsea,1,Barcelona,2,0,0,90,,,,,,,,,,,,
+1016,36,18/02/2006,05/06,La Liga,,H,Barcelona,5,Real Betis,1,1,0,13,,,,,,,,,,,,
+1017,35,05/02/2006,05/06,La Liga,,H,Barcelona,1,Atletico Madrid,3,0,0,45,,,,,,,,,,,,
+1018,34,01/02/2006,05/06,Copa del Rey,QF,H,Barcelona,2,Real Zaragoza,1,1,0,90,,,,,,,,,,,,
+1019,33,29/01/2006,05/06,La Liga,,A,Mallorca,0,Barcelona,3,2,0,18,,,,,,,,,,,,
+1020,32,26/01/2006,05/06,Copa del Rey,QF,A,Real Zaragoza,4,Barcelona,2,0,0,90,,,,,,,,,,,,
+1021,31,22/01/2006,05/06,La Liga,,H,Barcelona,2,Alaves,0,1,0,17,,,,,,,,,,,,
+1022,30,15/01/2006,05/06,La Liga,,H,Barcelona,2,Athletic Bilbao,1,1,0,83,,,,,,,,,,,,
+1023,29,07/01/2006,05/06,La Liga,,A,Espanyol,1,Barcelona,2,0,0,78,,,,,,,,,,,,
+1024,28,20/12/2005,05/06,La Liga,,H,Barcelona,2,Celta Vigo,0,0,0,67,,,,,,,,,,,,
+1025,27,17/12/2005,05/06,La Liga,,A,Cadiz,1,Barcelona,3,0,1,82,,,,,,,,,,,,
+1026,26,11/12/2005,05/06,La Liga,,H,Barcelona,2,Sevilla,1,0,0,63,,,,,,,,,,,,
+1027,25,04/12/2005,05/06,La Liga,,A,Villarreal,0,Barcelona,2,0,0,81,,,,,,,,,,,,
+1028,24,27/11/2005,05/06,La Liga,,H,Barcelona,4,Racing Santander,1,1,0,67,,,,,,,,,,,,
+1029,23,19/11/2005,05/06,La Liga,,A,Real Madrid,0,Barcelona,3,0,1,70,,,,,,,,,,,,
+1030,22,16/11/2005,05/06,International Friendly,,A,Qatar,0,Argentina,3,0,1,81,,,,,,,,,,,,
+1031,21,06/11/2005,05/06,La Liga,,A,Getafe,1,Barcelona,3,0,0,21,,,,,,,,,,,,
+1032,20,02/11/2005,05/06,Champs League,Group,H,Barcelona,5,Panathinaikos,0,1,1,90,,,,,,,,,,,,
+1033,19,26/10/2005,05/06,La Liga,,H,Barcelona,2,Malaga,0,0,0,28,,,,,,,,,,,,
+1034,18,22/10/2005,05/06,La Liga,,H,Barcelona,3,Osasuna,0,0,0,90,,,,,,,,,,,,
+1035,17,18/10/2005,05/06,Champs League,Group,A,Panathinaikos,0,Barcelona,0,0,0,23,,,,,,,,,,,,
+1036,16,12/10/2005,05/06,World Cup Qualifier,,A,Uruguay,1,Argentina,0,0,0,11,,,,,,,,,,,,
+1037,15,09/10/2005,05/06,World Cup Qualifier,,H,Argentina,2,Peru,0,0,0,90,,,,,,,,,,,,
+1038,14,01/10/2005,05/06,La Liga,,H,Barcelona,2,Real Zaragoza,2,0,0,24,,,,,,,,,,,,
+1039,13,27/09/2005,05/06,Champs League,Group,H,Barcelona,4,Udinese,1,0,0,69,,,,,,,,,,,,
+1040,12,14/09/2005,05/06,Champs League,Group,A,Werder Bremen,0,Barcelona,2,0,0,24,,,,,,,,,,,,
+1041,11,03/09/2005,05/06,World Cup Qualifier,,A,Paraguay,1,Argentina,0,0,0,10,,,,,,,,,,,,
+1042,10,17/08/2005,05/06,International Friendly,,A,Hungary,1,Argentina,2,0,0,1,,,,,,,,,,,,
+1043,9,01/05/2005,04/05,La Liga,,H,Barcelona,2,Albacete Balompie,0,1,0,2,,,,,,,,,,,,
+1044,8,17/04/2005,04/05,La Liga,,H,Barcelona,2,Getafe,0,0,0,4,,,,,,,,,,,,
+1045,7,21/12/2004,04/05,La Liga,,H,Barcelona,2,Levante,1,0,0,32,,,,,,,,,,,,
+1046,6,11/12/2004,04/05,La Liga,,A,Albacete Balompie,1,Barcelona,2,0,0,1,,,,,,,,,,,,
+1047,5,07/12/2004,04/05,Champs League,Group,A,Shakhtar Donetsk,2,Barcelona,0,0,0,90,,,,,,,,,,,,
+1048,4,04/12/2004,04/05,La Liga,,H,Barcelona,4,Malaga,0,0,0,7,,,,,,,,,,,,
+1049,3,27/10/2004,04/05,Copa del Rey,R64,A,UDA Gramenet,1,Barcelona,0,0,0,73,,,,,,,,,,,,
+1050,2,24/10/2004,04/05,La Liga,,H,Barcelona,3,Osasuna,0,0,0,18,,,,,,,,,,,,
+1051,1,16/10/2004,04/05,La Liga,,A,Espanyol,0,Barcelona,1,0,0,7,,,,,,,,,,,,
